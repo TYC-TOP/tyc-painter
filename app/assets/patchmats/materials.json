@@ -1,0 +1,169 @@
+[
+ {
+  "id": "nylon",
+  "name": [
+   "Nylon (callsign)",
+   "Nailon (callsign)"
+  ],
+  "zones": [
+   "bg",
+   "back",
+   "edge"
+  ],
+  "tile": [
+   0.44816,
+   0.03538
+  ],
+  "color": "#303030",
+  "rough": 0.751,
+  "px": [
+   912,
+   72
+  ]
+ },
+ {
+  "id": "irlight",
+  "name": [
+   "IR film, hexagons",
+   "L\u00e1mina IR, hex\u00e1gonos"
+  ],
+  "zones": [
+   "art",
+   "bg"
+  ],
+  "tile": [
+   0.14672,
+   0.15959
+  ],
+  "color": "#b1b1b1",
+  "rough": 0.921,
+  "px": [
+   228,
+   248
+  ]
+ },
+ {
+  "id": "irdark",
+  "name": [
+   "Subdued hex nylon",
+   "Nailon hex\u00e1gonos oscuro"
+  ],
+  "zones": [
+   "bg",
+   "art"
+  ],
+  "tile": [
+   0.12227,
+   0.47876
+  ],
+  "color": "#161716",
+  "rough": 0.921,
+  "px": [
+   190,
+   744
+  ]
+ },
+ {
+  "id": "hook",
+  "name": [
+   "Velcro hook",
+   "Velcro (gancho)"
+  ],
+  "zones": [
+   "back"
+  ],
+  "tile": [
+   0.26143,
+   0.15823
+  ],
+  "color": "#333333",
+  "rough": 0.996,
+  "px": [
+   532,
+   322
+  ]
+ },
+ {
+  "id": "twill",
+  "name": [
+   "Embroidery twill",
+   "Sarga de bordado"
+  ],
+  "zones": [
+   "bg",
+   "back"
+  ],
+  "tile": [
+   0.14727,
+   0.28752
+  ],
+  "color": "#121212",
+  "rough": 0.94,
+  "px": [
+   210,
+   410
+  ]
+ },
+ {
+  "id": "satin",
+  "name": [
+   "Satin stitch",
+   "Puntada sat\u00e9n"
+  ],
+  "zones": [
+   "art",
+   "edge"
+  ],
+  "tile": [
+   0.00982,
+   0.15989
+  ],
+  "color": "#f9eaea",
+  "rough": 0.548,
+  "px": [
+   56,
+   912
+  ]
+ },
+ {
+  "id": "merrow",
+  "name": [
+   "Merrow edge",
+   "Borde merrow"
+  ],
+  "zones": [
+   "edge"
+  ],
+  "tile": [
+   0.29453,
+   0.00912
+  ],
+  "color": "#f1c130",
+  "rough": 0.543,
+  "px": [
+   1680,
+   52
+  ]
+ },
+ {
+  "id": "woven",
+  "name": [
+   "Woven fabric",
+   "Tejido tramado"
+  ],
+  "zones": [
+   "bg",
+   "art"
+  ],
+  "tile": [
+   0.048,
+   0.112
+  ],
+  "color": "#4e4530",
+  "rough": 0.985,
+  "px": [
+   144,
+   336
+  ]
+ }
+]

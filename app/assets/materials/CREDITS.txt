@@ -1,0 +1,3 @@
+velcro_loop.png, velcro_hook.png  <- TextureCan "Velcro-like Hook and Loop Tape (Fabrics 0053)", CC0 — https://www.texturecan.com/details/352/
+webbing_twill.png                 <- TextureCan "Fine Denim (Fabrics 0055)", CC0 — https://www.texturecan.com/details/395/
+Recortadas, convertidas a escala de grises y hechas repetibles para TYC Painter.

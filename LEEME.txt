@@ -1,0 +1,7 @@
+TYC PAINTER 1.0 preview
+
+Base: TYC Painter 0.9.3 (Creador de parches con materiales por zonas, Poly Haven, ambientCG y bordado 3D)
++ funciones de la 0.11 preview (capas PBR, grupos, costuras y calcomanías UV editables, exportación
+Unreal/Unity, horneado de mapas de malla, shader óptico, autoguardado, atajos configurables).
+Electron 45 en Windows; Electron 43 en Mac (la última versión que funciona en macOS 12 Monterey).
+Entrada: main.js. Interfaz: app/index.html.

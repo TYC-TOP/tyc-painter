@@ -1,0 +1,8846 @@
+{
+"version": 1,
+"pack": "Debilniy camo texture folder v1.7",
+"items": {
+"Austrian Tarndruck Neu.png": {
+"c": [
+"Austria",
+"Army",
+"Tarndruck"
+],
+"n": "Austrian Tarndruck Neu"
+},
+"Hungary Camo 2015.png": {
+"c": [
+"Hungary",
+"Army",
+"Hungarian 2015"
+],
+"n": "Hungary Camo 2015"
+},
+"Arabs 🇸🇦🇮🇶🇦🇫/Afghanistan NDS camo.png": {
+"c": [
+"Afghanistan",
+"Army",
+"Afghanistan NDS camo"
+],
+"n": "Afghanistan NDS camo"
+},
+"Arabs 🇸🇦🇮🇶🇦🇫/Egyptian Scrambled Eggs.png": {
+"c": [
+"Egypt",
+"Army",
+"Egyptian Scrambled Eggs"
+],
+"n": "Egyptian Scrambled Eggs"
+},
+"Arabs 🇸🇦🇮🇶🇦🇫/Egyptian Thunderbolt.jpg": {
+"c": [
+"Egypt",
+"Army",
+"Egyptian Thunderbolt"
+],
+"n": "Egyptian Thunderbolt"
+},
+"Arabs 🇸🇦🇮🇶🇦🇫/Iraqi 6-color.png": {
+"c": [
+"Iraq",
+"Army",
+"Iraqi 6-color"
+],
+"n": "Iraqi 6-color"
+},
+"Arabs 🇸🇦🇮🇶🇦🇫/Kuwait National Guard (evil AOR).png": {
+"c": [
+"Kuwait",
+"Army",
+"Kuwait National Guard (evil AOR)"
+],
+"n": "Kuwait National Guard (evil AOR)"
+},
+"Arabs 🇸🇦🇮🇶🇦🇫/Saudi Arabian 6-color Desert.png": {
+"c": [
+"Saudi Arabia",
+"Army",
+"Saudi Arabian 6-color Desert"
+],
+"n": "Saudi Arabian 6-color Desert"
+},
+"Australia 🇦🇺/AMCU 2.png": {
+"c": [
+"Australia",
+"Army",
+"AMCU"
+],
+"n": "AMCU 2"
+},
+"Australia 🇦🇺/AMCU Bleached.png": {
+"c": [
+"Australia",
+"Army",
+"AMCU"
+],
+"n": "AMCU Bleached"
+},
+"Australia 🇦🇺/AMCU.png": {
+"c": [
+"Australia",
+"Army",
+"AMCU"
+],
+"n": "AMCU"
+},
+"Australia 🇦🇺/AUSCAM DPCU.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM DPCU"
+},
+"Australia 🇦🇺/AUSCAM DPDU1.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM DPDU1"
+},
+"Australia 🇦🇺/AUSCAM DPDU2.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM DPDU2"
+},
+"Australia 🇦🇺/AUSCAM DPDU3.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM DPDU3"
+},
+"Australia 🇦🇺/AUSCAM DPNU.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM DPNU"
+},
+"Australia 🇦🇺/AUSCAM Midpoint.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM Midpoint"
+},
+"Australia 🇦🇺/AUSCAM OPFOR.png": {
+"c": [
+"Australia",
+"Army",
+"AUSCAM / DPCU"
+],
+"n": "AUSCAM OPFOR"
+},
+"Australia 🇦🇺/Australian GPU HD.png": {
+"c": [
+"Australia",
+"Army",
+"GPU / MMPU"
+],
+"n": "GPU HD"
+},
+"Australia 🇦🇺/Australian MMPU HD.png": {
+"c": [
+"Australia",
+"Army",
+"GPU / MMPU"
+],
+"n": "MMPU HD"
+},
+"Australia 🇦🇺/vehicle Australian hexcam.png": {
+"c": [
+"Australia",
+"Vehicles",
+"Hexcam"
+],
+"n": "Vehicle Australian hexcam"
+},
+"Bri_ ish 🇬🇧/150ppi fullscale 5toneDPM antiNV.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "5toneDPM antiNV"
+},
+"Bri_ ish 🇬🇧/150ppi fullscale 5toneDPM.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "5toneDPM"
+},
+"Bri_ ish 🇬🇧/150ppi fullscale Desert DPM.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "Desert DPM"
+},
+"Bri_ ish 🇬🇧/150ppi fullscale DPM classic.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "DPM classic"
+},
+"Bri_ ish 🇬🇧/150ppi fullscale DPM modern temprate.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "DPM modern temprate"
+},
+"Bri_ ish 🇬🇧/150ppi fullscale DPM OPFOR.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "DPM OPFOR"
+},
+"Bri_ ish 🇬🇧/british anti-gas brown.png": {
+"c": [
+"United Kingdom",
+"Army",
+"Anti-gas suits"
+],
+"n": "British anti-gas brown"
+},
+"Bri_ ish 🇬🇧/british anti-gas pink.png": {
+"c": [
+"United Kingdom",
+"Army",
+"Anti-gas suits"
+],
+"n": "British anti-gas pink"
+},
+"Bri_ ish 🇬🇧/british DPM94 PECOC desert.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "British DPM94 PECOC desert"
+},
+"Bri_ ish 🇬🇧/british DPM94 PECOC.png": {
+"c": [
+"United Kingdom",
+"Army",
+"DPM"
+],
+"n": "British DPM94 PECOC"
+},
+"Bri_ ish 🇬🇧/uk mtp 1.png": {
+"c": [
+"United Kingdom",
+"Army",
+"MTP"
+],
+"n": "Mtp 1"
+},
+"Bri_ ish 🇬🇧/uk mtp 2.png": {
+"c": [
+"United Kingdom",
+"Army",
+"MTP"
+],
+"n": "Mtp 2"
+},
+"Bri_ ish 🇬🇧/uk mtp 3.png": {
+"c": [
+"United Kingdom",
+"Army",
+"MTP"
+],
+"n": "Mtp 3"
+},
+"Bri_ ish 🇬🇧/UK MTP bright.png": {
+"c": [
+"United Kingdom",
+"Army",
+"MTP"
+],
+"n": "MTP bright"
+},
+"Bri_ ish 🇬🇧/UK MTP dark.png": {
+"c": [
+"United Kingdom",
+"Army",
+"MTP"
+],
+"n": "MTP dark"
+},
+"Bri_ ish 🇬🇧/uk mtp urban.png": {
+"c": [
+"United Kingdom",
+"Army",
+"MTP"
+],
+"n": "Mtp urban"
+},
+"Bri_ ish 🇬🇧/vehicle British Berlin.png": {
+"c": [
+"United Kingdom",
+"Vehicles",
+"Berlin Brigade"
+],
+"n": "Vehicle British Berlin"
+},
+"Bri_ ish 🇬🇧/vehicle British TARIAN Dazzle.png": {
+"c": [
+"United Kingdom",
+"Vehicles",
+"Dazzle"
+],
+"n": "Vehicle British TARIAN Dazzle"
+},
+"Canada 🇨🇦/CADPAT Arctic 2.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Arctic 2"
+},
+"Canada 🇨🇦/CADPAT Arctic.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Arctic"
+},
+"Canada 🇨🇦/CADPAT Arid Region.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Arid Region"
+},
+"Canada 🇨🇦/CADPAT Intermediate bright.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Intermediate bright"
+},
+"Canada 🇨🇦/CADPAT Intermediate.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Intermediate"
+},
+"Canada 🇨🇦/CADPAT Multi-Terrain bright.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Multi-Terrain bright"
+},
+"Canada 🇨🇦/CADPAT Multi-Terrain dark.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Multi-Terrain dark"
+},
+"Canada 🇨🇦/CADPAT Multi-Terrain.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Multi-Terrain"
+},
+"Canada 🇨🇦/CADPAT Temperate Woodland 1st series dark.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Temperate Woodland 1st series dark"
+},
+"Canada 🇨🇦/CADPAT Temperate Woodland 1st series.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Temperate Woodland 1st series"
+},
+"Canada 🇨🇦/CADPAT Temperate Woodland 2nd series.png": {
+"c": [
+"Canada",
+"Canadian Armed Forces",
+"CADPAT"
+],
+"n": "CADPAT Temperate Woodland 2nd series"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China airborne urban.png": {
+"c": [
+"China",
+"Air Force & Airborne",
+"Airborne"
+],
+"n": "Airborne urban"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China Armed Police summer.png": {
+"c": [
+"China",
+"Armed Police (PAP)",
+"Armed Police"
+],
+"n": "Armed Police summer"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China Armed Police winter.png": {
+"c": [
+"China",
+"Armed Police (PAP)",
+"Armed Police"
+],
+"n": "Armed Police winter"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 Desert.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "PLA type 07 Desert"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 Hunter Digital.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "PLA type 07 Hunter Digital"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 Oceanic.png": {
+"c": [
+"China",
+"Navy & Marines",
+"Type 07"
+],
+"n": "PLA type 07 Oceanic"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 OPFOR.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "PLA type 07 OPFOR"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 Universal.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "PLA type 07 Universal"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 Urban.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "PLA type 07 Urban"
+},
+"China 🇨🇳 wassup beijing Tiannamen/China PLA type 07 Woodland.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "PLA type 07 Woodland"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Chinese Type 03 Oceanic.jpg": {
+"c": [
+"China",
+"Navy & Marines",
+"Type 03"
+],
+"n": "Type 03 Oceanic"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Chinese Type 07.png": {
+"c": [
+"China",
+"Army",
+"Type 07"
+],
+"n": "Type 07"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Chinese Type 81.png": {
+"c": [
+"China",
+"Army",
+"Older types (81 / 87 / 99)"
+],
+"n": "Type 81"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Chinese Type 87.png": {
+"c": [
+"China",
+"Army",
+"Older types (81 / 87 / 99)"
+],
+"n": "Type 87"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Chinese Type 99.png": {
+"c": [
+"China",
+"Army",
+"Older types (81 / 87 / 99)"
+],
+"n": "Type 99"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Type 19 Xingkong Arid.png": {
+"c": [
+"China",
+"Army",
+"Type 19 Xingkong"
+],
+"n": "Type 19 Xingkong Arid"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Type 19 Xingkong Desert.png": {
+"c": [
+"China",
+"Army",
+"Type 19 Xingkong"
+],
+"n": "Type 19 Xingkong Desert"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Type 19 Xingkong Jungle.png": {
+"c": [
+"China",
+"Army",
+"Type 19 Xingkong"
+],
+"n": "Type 19 Xingkong Jungle"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Type 19 Xingkong Urban.png": {
+"c": [
+"China",
+"Army",
+"Type 19 Xingkong"
+],
+"n": "Type 19 Xingkong Urban"
+},
+"China 🇨🇳 wassup beijing Tiannamen/Type 19 Xingkong Woodland.png": {
+"c": [
+"China",
+"Army",
+"Type 19 Xingkong"
+],
+"n": "Type 19 Xingkong Woodland"
+},
+"commercial stuff/150ppi Champion DPM Black.png": {
+"c": [
+"Commercial",
+"Champion",
+"Champion"
+],
+"n": "Champion DPM Black"
+},
+"commercial stuff/Ana Black Kamysh.png": {
+"c": [
+"Commercial",
+"ANA",
+"ANA"
+],
+"n": "Ana Black Kamysh"
+},
+"commercial stuff/Ana Green Kamysh v2.png": {
+"c": [
+"Commercial",
+"ANA",
+"ANA"
+],
+"n": "Ana Green Kamysh v2"
+},
+"commercial stuff/Arktis Digital Woodland.png": {
+"c": [
+"Commercial",
+"Arktis",
+"Arktis"
+],
+"n": "Arktis Digital Woodland"
+},
+"commercial stuff/Black Tigerstripe.png": {
+"c": [
+"Commercial",
+"Other brands",
+"Tigerstripe & others"
+],
+"n": "Black Tigerstripe"
+},
+"commercial stuff/Jungle Stalker Digital.png": {
+"c": [
+"Commercial",
+"Jungle Stalker",
+"Jungle Stalker"
+],
+"n": "Jungle Stalker Digital"
+},
+"commercial stuff/Rothco Red Camo.png": {
+"c": [
+"Commercial",
+"Rothco",
+"Rothco"
+],
+"n": "Rothco Red Camo"
+},
+"commercial stuff/Rothco Red Digital.png": {
+"c": [
+"Commercial",
+"Rothco",
+"Rothco"
+],
+"n": "Rothco Red Digital"
+},
+"commercial stuff/Rothco Urban Tigerstripe.png": {
+"c": [
+"Commercial",
+"Rothco",
+"Rothco"
+],
+"n": "Rothco Urban Tigerstripe"
+},
+"commercial stuff/Russian EMR square Bullshit.png": {
+"c": [
+"Commercial",
+"Other brands",
+"Tigerstripe & others"
+],
+"n": "EMR square Bullshit"
+},
+"commercial stuff/TacTiger.png": {
+"c": [
+"Commercial",
+"Other brands",
+"Tigerstripe & others"
+],
+"n": "TacTiger"
+},
+"commercial stuff/UF-Pro Flecktarn Black.png": {
+"c": [
+"Commercial",
+"UF PRO",
+"UF PRO"
+],
+"n": "UF-Pro Flecktarn Black"
+},
+"commercial stuff/Vajra Miami Tigerstripe.png": {
+"c": [
+"Commercial",
+"Vajra",
+"Vajra"
+],
+"n": "Vajra Miami Tigerstripe"
+},
+"fictional_other/Greensnack Desert Tigerstripe.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Greensnack Desert Tigerstripe"
+},
+"fictional_other/Hex M81.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Hex M81"
+},
+"fictional_other/Hyprestealth Tigerpat Shadow Raid.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Hyprestealth Tigerpat Shadow Raid"
+},
+"fictional_other/MultiHex Foliage.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "MultiHex Foliage"
+},
+"fictional_other/MultiHex Foliage2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "MultiHex Foliage2"
+},
+"fictional_other/MultiHex Ghost.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "MultiHex Ghost"
+},
+"fictional_other/MultiHex Intermediate.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "MultiHex Intermediate"
+},
+"fictional_other/Palmenmuster Hawaiian Rave.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Palmenmuster Hawaiian Rave"
+},
+"fictional_other/PenCott AF BlackOut.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "PenCott AF BlackOut"
+},
+"fictional_other/PenCott AF WaterFall.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "PenCott AF WaterFall"
+},
+"fictional_other/reed_but_i_removed_all_the_mean_spikes.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Reed but i removed all the mean spikes"
+},
+"fictional_other/Setka Invertirovannaya.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Setka Invertirovannaya"
+},
+"fictional_other/Setka.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Setka"
+},
+"fictional_other/Setka2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Setka2"
+},
+"fictional_other/Xingkong Fleck.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Xingkong Fleck"
+},
+"fictional_other/Xingkong MARPAT.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Xingkong MARPAT"
+},
+"fictional_other/Xingkong MC Woodland.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Misc"
+],
+"n": "Xingkong MC Woodland"
+},
+"Germany 🇩🇪/German Flecktarn A2.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn A2"
+},
+"Germany 🇩🇪/German Flecktarn Aridfleck.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Aridfleck"
+},
+"Germany 🇩🇪/German Flecktarn Multifleck.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Multifleck"
+},
+"Germany 🇩🇪/German Flecktarn Multitarn.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Multitarn"
+},
+"Germany 🇩🇪/German Flecktarn Post-2005 bright.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Post-2005 bright"
+},
+"Germany 🇩🇪/German Flecktarn Post-2005 dark.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Post-2005 dark"
+},
+"Germany 🇩🇪/German Flecktarn Pre-2005 bright.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Pre-2005 bright"
+},
+"Germany 🇩🇪/German Flecktarn Pre-2005 dark.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Pre-2005 dark"
+},
+"Germany 🇩🇪/German Flecktarn Tropentarn bright.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Tropentarn bright"
+},
+"Germany 🇩🇪/German Flecktarn Tropentarn dark.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn Tropentarn dark"
+},
+"Germany 🇩🇪/German Flecktarn worn.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Flecktarn"
+],
+"n": "Flecktarn worn"
+},
+"Germany 🇩🇪/german Schneetarn.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Schneetarn"
+],
+"n": "Schneetarn"
+},
+"Japan 🇯🇵 cunny oughh/Camo_Vehicle_JGSDF.jpg": {
+"c": [
+"Japan",
+"Vehicles",
+"Other"
+],
+"n": "Vehicle JGSDF"
+},
+"Japan 🇯🇵 cunny oughh/Japanese Jietai Dots cold weather.png": {
+"c": [
+"Japan",
+"Army",
+"Jietai Dots (Type 2)"
+],
+"n": "Jietai Dots cold weather"
+},
+"Japan 🇯🇵 cunny oughh/Japanese Jietai Dots desert.png": {
+"c": [
+"Japan",
+"Army",
+"Jietai Dots (Type 2)"
+],
+"n": "Jietai Dots desert"
+},
+"Japan 🇯🇵 cunny oughh/Japanese Jietai Dots.png": {
+"c": [
+"Japan",
+"Army",
+"Jietai Dots (Type 2)"
+],
+"n": "Jietai Dots"
+},
+"Japan 🇯🇵 cunny oughh/Japanese Mk 1.png": {
+"c": [
+"Japan",
+"Army",
+"Mk 1"
+],
+"n": "Mk 1"
+},
+"Japan 🇯🇵 cunny oughh/JASDF Fang Pattern.png": {
+"c": [
+"Japan",
+"Air Self-Defense Force",
+"Type 1 Fang"
+],
+"n": "JASDF Fang Pattern"
+},
+"Japan 🇯🇵 cunny oughh/JASDF Type 1 Fang 1980s.png": {
+"c": [
+"Japan",
+"Air Self-Defense Force",
+"Type 1 Fang"
+],
+"n": "JASDF Type 1 Fang 1980s"
+},
+"Japan 🇯🇵 cunny oughh/JSDF 1st Airborne Brigade.png": {
+"c": [
+"Japan",
+"Ground Self-Defense Force",
+"Type 2 (Airborne)"
+],
+"n": "JSDF 1st Airborne Brigade"
+},
+"Korea 🇰🇷 martial law/Korean Jigsaw.png": {
+"c": [
+"South Korea",
+"Army",
+"Jigsaw"
+],
+"n": "Jigsaw"
+},
+"Korea 🇰🇷 martial law/Korean Mitchell camo.png": {
+"c": [
+"South Korea",
+"Army",
+"Mitchell"
+],
+"n": "Mitchell camo"
+},
+"Korea 🇰🇷 martial law/Korean Mitchell camo2.png": {
+"c": [
+"South Korea",
+"Army",
+"Mitchell"
+],
+"n": "Mitchell camo2"
+},
+"Korea 🇰🇷 martial law/Korean NIS.png": {
+"c": [
+"South Korea",
+"Special units",
+"NIS"
+],
+"n": "NIS"
+},
+"Korea 🇰🇷 martial law/Korean ROK Granite B.png": {
+"c": [
+"South Korea",
+"Army",
+"Granite B"
+],
+"n": "ROK Granite B"
+},
+"Korea 🇰🇷 martial law/Korean ROK MC WAVEPAT.png": {
+"c": [
+"South Korea",
+"Marine Corps",
+"Wavepat"
+],
+"n": "ROK MC WAVEPAT"
+},
+"Korea 🇰🇷 martial law/Korean Turtle Shell.png": {
+"c": [
+"South Korea",
+"Army",
+"Turtle Shell"
+],
+"n": "Turtle Shell"
+},
+"Korea 🇰🇷 martial law/Korean Yu-Shin bok.png": {
+"c": [
+"South Korea",
+"Army",
+"Yu-Shin bok"
+],
+"n": "Yu-Shin bok"
+},
+"Korea 🇰🇷 martial law/ROKPAT.png": {
+"c": [
+"South Korea",
+"Army",
+"ROKPAT"
+],
+"n": "ROKPAT"
+},
+"Korea 🇰🇷 martial law/ROKSF.png": {
+"c": [
+"South Korea",
+"Special units",
+"Special Forces"
+],
+"n": "ROKSF"
+},
+"Rhodesian brushstroke by Dan/150ppi Rhodesian Brushstroke adder.png": {
+"c": [
+"Rhodesia",
+"Army",
+"Brushstroke"
+],
+"n": "Rhodesian Brushstroke adder"
+},
+"Rhodesian brushstroke by Dan/150ppi Rhodesian Brushstroke arid winter.png": {
+"c": [
+"Rhodesia",
+"Army",
+"Brushstroke"
+],
+"n": "Rhodesian Brushstroke arid winter"
+},
+"Rhodesian brushstroke by Dan/150ppi Rhodesian Brushstroke OPFOR.png": {
+"c": [
+"Rhodesia",
+"Army",
+"Brushstroke"
+],
+"n": "Rhodesian Brushstroke OPFOR"
+},
+"Rhodesian brushstroke by Dan/150ppi Rhodesian Brushstroke woodland.png": {
+"c": [
+"Rhodesia",
+"Army",
+"Brushstroke"
+],
+"n": "Rhodesian Brushstroke woodland"
+},
+"Rhodesian brushstroke by Dan/150ppi Rhodesian Brushstroke.png": {
+"c": [
+"Rhodesia",
+"Army",
+"Brushstroke"
+],
+"n": "Rhodesian Brushstroke"
+},
+"Russia 🇷🇺 kursk offensive/CADPAT clone russian desert digital.png": {
+"c": [
+"Russia",
+"Army",
+"CADPAT clones"
+],
+"n": "CADPAT clone russian desert digital"
+},
+"Russia 🇷🇺 kursk offensive/CADPAT clone russian National guard.png": {
+"c": [
+"Russia",
+"Police & National Guard",
+"CADPAT clones"
+],
+"n": "CADPAT clone russian National guard"
+},
+"Russia 🇷🇺 kursk offensive/Russian Post-Soviet green-black.png": {
+"c": [
+"Russia",
+"Army",
+"Post-Soviet"
+],
+"n": "Post-Soviet green-black"
+},
+"Russia 🇷🇺 kursk offensive/Russian Post-Soviet green-purple.png": {
+"c": [
+"Russia",
+"Army",
+"Post-Soviet"
+],
+"n": "Post-Soviet green-purple"
+},
+"Switzerland 🇨🇭/Swiss Flecktarn Winter.png": {
+"c": [
+"Switzerland",
+"Army",
+"Flecktarn"
+],
+"n": "Flecktarn Winter"
+},
+"Switzerland 🇨🇭/Swiss Taz 83 Alpenflage.png": {
+"c": [
+"Switzerland",
+"Army",
+"TAZ 83 Alpenflage"
+],
+"n": "Taz 83 Alpenflage"
+},
+"Switzerland 🇨🇭/Swiss Taz 90.png": {
+"c": [
+"Switzerland",
+"Army",
+"TAZ 90"
+],
+"n": "Taz 90"
+},
+"Turkey 🇹🇷 cockroach/Turkish Digital.png": {
+"c": [
+"Turkey",
+"Army",
+"Digital"
+],
+"n": "Digital"
+},
+"Turkey 🇹🇷 cockroach/Turkish Land Forces.png": {
+"c": [
+"Turkey",
+"Army",
+"Digital"
+],
+"n": "Land Forces"
+},
+"Turkey 🇹🇷 cockroach/Turkish Mehmetcik 2021.png": {
+"c": [
+"Turkey",
+"Army",
+"Digital"
+],
+"n": "Mehmetcik 2021"
+},
+"Turkey 🇹🇷 cockroach/Turkish Ozel Harekat.png": {
+"c": [
+"Turkey",
+"Police special operations",
+"Özel Harekât"
+],
+"n": "Ozel Harekat"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Camo_Ukraine_Jaba.jpg": {
+"c": [
+"Ukraine",
+"Army",
+"Jaba"
+],
+"n": "Ukraine Jaba"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Camo_Ukraine_Urban_Kamysh.jpg": {
+"c": [
+"Ukraine",
+"Army",
+"Kamysh"
+],
+"n": "Ukraine Urban Kamysh"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/CDF TTsKO.png": {
+"c": [
+"Ukraine",
+"Army",
+"TTsKO"
+],
+"n": "CDF TTsKO"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian Butan Desert.png": {
+"c": [
+"Ukraine",
+"Army",
+"Butan"
+],
+"n": "Butan Desert"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian butan.png": {
+"c": [
+"Ukraine",
+"Army",
+"Butan"
+],
+"n": "Butan"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian MM-14 Arid.png": {
+"c": [
+"Ukraine",
+"Army",
+"MM-14"
+],
+"n": "MM-14 Arid"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian MM-14 Navy.png": {
+"c": [
+"Ukraine",
+"Navy & Marines",
+"MM-14"
+],
+"n": "MM-14 Navy"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian MM-14 Woodland.png": {
+"c": [
+"Ukraine",
+"Army",
+"MM-14"
+],
+"n": "MM-14 Woodland"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian MM-14.png": {
+"c": [
+"Ukraine",
+"Army",
+"MM-14"
+],
+"n": "MM-14"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian Police Dubok 1.png": {
+"c": [
+"Ukraine",
+"Police",
+"Dubok"
+],
+"n": "Police Dubok 1"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian Police Dubok 2.png": {
+"c": [
+"Ukraine",
+"Police",
+"Dubok"
+],
+"n": "Police Dubok 2"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian Police Dubok 3.png": {
+"c": [
+"Ukraine",
+"Police",
+"Dubok"
+],
+"n": "Police Dubok 3"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian Police Dubok 4.png": {
+"c": [
+"Ukraine",
+"Police",
+"Dubok"
+],
+"n": "Police Dubok 4"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/Ukrainian TTsKO.png": {
+"c": [
+"Ukraine",
+"Army",
+"TTsKO"
+],
+"n": "TTsKO"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/varan zsu 4.png": {
+"c": [
+"Ukraine",
+"National Guard",
+"Varan"
+],
+"n": "Varan zsu 4"
+},
+"Ukraine 🇺🇦 hohol zelenskiy shaker/varan_vsu_2.png": {
+"c": [
+"Ukraine",
+"National Guard",
+"Varan"
+],
+"n": "Varan vsu 2"
+},
+"USA 🇺🇸 orange man/American Desert Night Camo tile.png": {
+"c": [
+"United States",
+"All services",
+"Desert (DBDU / DCU)"
+],
+"n": "Desert Night Camo tile"
+},
+"USA 🇺🇸 orange man/American M81 Woodland NWU-B experimental.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "M81 Woodland NWU-B experimental"
+},
+"USA 🇺🇸 orange man/American M81 Woodland NWU-C experimental.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "M81 Woodland NWU-C experimental"
+},
+"USA 🇺🇸 orange man/American MacLaren facsimile.png": {
+"c": [
+"United States",
+"Experimental",
+"Prototypes & trials"
+],
+"n": "MacLaren facsimile"
+},
+"USA 🇺🇸 orange man/American marine experimental.png": {
+"c": [
+"United States",
+"USMC",
+"Experimental"
+],
+"n": "Marine experimental"
+},
+"USA 🇺🇸 orange man/American marine experimental2.png": {
+"c": [
+"United States",
+"USMC",
+"Experimental"
+],
+"n": "Marine experimental2"
+},
+"USA 🇺🇸 orange man/American Rain Strokes.png": {
+"c": [
+"United States",
+"Experimental",
+"Prototypes & trials"
+],
+"n": "Rain Strokes"
+},
+"USA 🇺🇸 orange man/American Snow BDU.png": {
+"c": [
+"United States",
+"All services",
+"Snow"
+],
+"n": "Snow BDU"
+},
+"USA 🇺🇸 orange man/American WWII.png": {
+"c": [
+"United States",
+"WWII & Korea",
+"Frogskin / WWII"
+],
+"n": "WWII"
+},
+"USA 🇺🇸 orange man/BradVickers US Army OCP Scorpion W2.png": {
+"c": [
+"United States",
+"US Army",
+"OCP / Scorpion W2"
+],
+"n": "BradVickers US Army OCP Scorpion W2"
+},
+"USA 🇺🇸 orange man/Experimental Snakeskin.jpg": {
+"c": [
+"United States",
+"Experimental",
+"Prototypes & trials"
+],
+"n": "Experimental Snakeskin"
+},
+"USA 🇺🇸 orange man/Mitchell Camo.png": {
+"c": [
+"United States",
+"WWII & Korea",
+"Mitchell"
+],
+"n": "Mitchell Camo"
+},
+"USA 🇺🇸 orange man/Scorpion 2002 CCU Trial.png": {
+"c": [
+"United States",
+"US Army",
+"OCP / Scorpion W2"
+],
+"n": "Scorpion 2002 CCU Trial"
+},
+"USA 🇺🇸 orange man/Scorpion color-corrected.png": {
+"c": [
+"United States",
+"US Army",
+"OCP / Scorpion W2"
+],
+"n": "Scorpion color-corrected"
+},
+"USA 🇺🇸 orange man/Scorpion W2 OCP bad.png": {
+"c": [
+"United States",
+"US Army",
+"OCP / Scorpion W2"
+],
+"n": "Scorpion W2 OCP bad"
+},
+"USA 🇺🇸 orange man/Scorpion W2 OCP.png": {
+"c": [
+"United States",
+"US Army",
+"OCP / Scorpion W2"
+],
+"n": "Scorpion W2 OCP"
+},
+"USA 🇺🇸 orange man/US Mitchell Clouds Reverse Side 24x12in.png": {
+"c": [
+"United States",
+"WWII & Korea",
+"Mitchell"
+],
+"n": "Mitchell Clouds Reverse Side 24x12in"
+},
+"USA 🇺🇸 orange man/US Mitchell Leaves Obverse Side 24x12in.png": {
+"c": [
+"United States",
+"WWII & Korea",
+"Mitchell"
+],
+"n": "Mitchell Leaves Obverse Side 24x12in"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC desert, grey.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC desert, grey"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC desert, red.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC desert, red"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC jungle.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC jungle"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC verdant, summer.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC verdant, summer"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC verdant, winter.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC verdant, winter"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC winter, open.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC winter, open"
+},
+"USA 🇺🇸 orange man/vehicle American MERDC winter, trees.png": {
+"c": [
+"United States",
+"Vehicles",
+"MERDC"
+],
+"n": "Vehicle American MERDC winter, trees"
+},
+"USSR(i finally added some)/Camo_MVD_KLMK_Desert.jpg": {
+"c": [
+"Soviet Union",
+"MVD",
+"KLMK"
+],
+"n": "MVD KLMK Desert"
+},
+"USSR(i finally added some)/Camo_MVD_KLMK_European.jpg": {
+"c": [
+"Soviet Union",
+"MVD",
+"KLMK"
+],
+"n": "MVD KLMK European"
+},
+"USSR(i finally added some)/Camo_MVD_KLMK_Mountain.jpg": {
+"c": [
+"Soviet Union",
+"MVD",
+"KLMK"
+],
+"n": "MVD KLMK Mountain"
+},
+"USSR(i finally added some)/Soviet Amoeba brown.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Amoeba"
+],
+"n": "Amoeba brown"
+},
+"USSR(i finally added some)/Soviet Amoeba green black.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Amoeba"
+],
+"n": "Amoeba green black"
+},
+"USSR(i finally added some)/Soviet Amoeba green brown.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Amoeba"
+],
+"n": "Amoeba green brown"
+},
+"USSR(i finally added some)/Soviet Amoeba green white.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Amoeba"
+],
+"n": "Amoeba green white"
+},
+"USSR(i finally added some)/Soviet Amoeba khaki brown.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Amoeba"
+],
+"n": "Amoeba khaki brown"
+},
+"USSR(i finally added some)/Soviet Amoeba white teal.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Amoeba"
+],
+"n": "Amoeba white teal"
+},
+"USSR(i finally added some)/Soviet Barvikha 1.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 1"
+},
+"USSR(i finally added some)/Soviet Barvikha 10.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 10"
+},
+"USSR(i finally added some)/Soviet Barvikha 11.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 11"
+},
+"USSR(i finally added some)/Soviet Barvikha 12.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 12"
+},
+"USSR(i finally added some)/Soviet Barvikha 13.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 13"
+},
+"USSR(i finally added some)/Soviet Barvikha 14.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 14"
+},
+"USSR(i finally added some)/Soviet Barvikha 2.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 2"
+},
+"USSR(i finally added some)/Soviet Barvikha 3.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 3"
+},
+"USSR(i finally added some)/Soviet Barvikha 4.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 4"
+},
+"USSR(i finally added some)/Soviet Barvikha 5.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 5"
+},
+"USSR(i finally added some)/Soviet Barvikha 6.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 6"
+},
+"USSR(i finally added some)/Soviet Barvikha 7.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 7"
+},
+"USSR(i finally added some)/Soviet Barvikha 8.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 8"
+},
+"USSR(i finally added some)/Soviet Barvikha 9.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Barvikha"
+],
+"n": "Barvikha 9"
+},
+"USSR(i finally added some)/Soviet Camo_Partizan.jpg": {
+"c": [
+"Soviet Union",
+"Army",
+"Partizan"
+],
+"n": "Partizan"
+},
+"USSR(i finally added some)/Soviet Camo_PartizanM_Autumn.jpg": {
+"c": [
+"Soviet Union",
+"Army",
+"Partizan"
+],
+"n": "PartizanM Autumn"
+},
+"USSR(i finally added some)/Soviet Granite.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Granite"
+],
+"n": "Granite"
+},
+"USSR(i finally added some)/Soviet KLMK Berezka golden.png": {
+"c": [
+"Soviet Union",
+"Army",
+"KLMK Berezka"
+],
+"n": "KLMK Berezka golden"
+},
+"USSR(i finally added some)/Soviet KLMK Berezka prototype.png": {
+"c": [
+"Soviet Union",
+"Army",
+"KLMK Berezka"
+],
+"n": "KLMK Berezka prototype"
+},
+"USSR(i finally added some)/Soviet KLMK Berezka reversed.png": {
+"c": [
+"Soviet Union",
+"Army",
+"KLMK Berezka"
+],
+"n": "KLMK Berezka reversed"
+},
+"USSR(i finally added some)/Soviet KLMK Berezka washed.png": {
+"c": [
+"Soviet Union",
+"Army",
+"KLMK Berezka"
+],
+"n": "KLMK Berezka washed"
+},
+"USSR(i finally added some)/Soviet KLMK Berezka white.png": {
+"c": [
+"Soviet Union",
+"Army",
+"KLMK Berezka"
+],
+"n": "KLMK Berezka white"
+},
+"USSR(i finally added some)/Soviet KLMK Berezka.png": {
+"c": [
+"Soviet Union",
+"Army",
+"KLMK Berezka"
+],
+"n": "KLMK Berezka"
+},
+"USSR(i finally added some)/Soviet Leaf.png": {
+"c": [
+"Soviet Union",
+"Army",
+"Leaf"
+],
+"n": "Leaf"
+},
+"USSR(i finally added some)/Soviet SMK.png": {
+"c": [
+"Soviet Union",
+"Army",
+"SMK"
+],
+"n": "SMK"
+},
+"USSR(i finally added some)/Soviet TTsMKK.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsMKK"
+],
+"n": "TTsMKK"
+},
+"USSR(i finally added some)/Soviet Vehicle Exprint 2color olive-brown.jpg": {
+"c": [
+"Soviet Union",
+"Vehicles",
+"Vehicle camo"
+],
+"n": "Vehicle Exprint 2color olive-brown"
+},
+"USSR(i finally added some)/Soviet Vehicle Green-DarkEarth.jpg": {
+"c": [
+"Soviet Union",
+"Vehicles",
+"Vehicle camo"
+],
+"n": "Vehicle Green-DarkEarth"
+},
+"USSR(i finally added some)/Soviet Vehicle Green-Yellow.jpg": {
+"c": [
+"Soviet Union",
+"Vehicles",
+"Vehicle camo"
+],
+"n": "Vehicle Green-Yellow"
+},
+"USSR(i finally added some)/Soviet Vehicle T37a SpottedCamo Green.jpg": {
+"c": [
+"Soviet Union",
+"Vehicles",
+"Vehicle camo"
+],
+"n": "Vehicle T37a SpottedCamo Green"
+},
+"vidya_Movies 🎥/Suicide Squad Bravoflauge night urban.png": {
+"c": [
+"Games & movies",
+"Suicide Squad",
+"Bravoflage"
+],
+"n": "Suicide Squad Bravoflauge night urban"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/LRRDU.png": {
+"c": [
+"Philippines",
+"Police & Special units",
+"SRDU / LRRDU"
+],
+"n": "LRRDU"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippine 6-color.png": {
+"c": [
+"Philippines",
+"Army",
+"6-color Desert"
+],
+"n": "6-color"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippine_PSG_BricksBrown.jpg": {
+"c": [
+"Philippines",
+"Police & Special units",
+"PSG Bricks"
+],
+"n": "PSG BricksBrown"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippine_PSG_BricksGreen.jpg": {
+"c": [
+"Philippines",
+"Police & Special units",
+"PSG Bricks"
+],
+"n": "PSG BricksGreen"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippine_PSG_BricksGrey.jpg": {
+"c": [
+"Philippines",
+"Police & Special units",
+"PSG Bricks"
+],
+"n": "PSG BricksGrey"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippines Air Force PHILARPAT 2020.png": {
+"c": [
+"Philippines",
+"Air Force & Airborne",
+"PHILARPAT"
+],
+"n": "Air Force PHILARPAT 2020"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippines Army PHILARPAT 2016.png": {
+"c": [
+"Philippines",
+"Army",
+"PHILARPAT"
+],
+"n": "Army PHILARPAT 2016"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippines DPM.png": {
+"c": [
+"Philippines",
+"Army",
+"DPM"
+],
+"n": "DPM"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/Philippines Navy PHILARPAT 2018.png": {
+"c": [
+"Philippines",
+"Navy & Marines",
+"PHILARPAT"
+],
+"n": "Navy PHILARPAT 2018"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/SRDU Black.png": {
+"c": [
+"Philippines",
+"Police & Special units",
+"SRDU / LRRDU"
+],
+"n": "SRDU Black"
+},
+"ASEAN 🇵🇭🇸🇬🇹🇭 VRchat playerbase/Philippines 🇵🇭 pinoy/SRDU Blue.png": {
+"c": [
+"Philippines",
+"Police & Special units",
+"SRDU / LRRDU"
+],
+"n": "SRDU Blue"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian 1946 splinter.png": {
+"c": [
+"Bulgaria",
+"Army",
+"Splinter"
+],
+"n": "1946 splinter"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/bulgarian 1951 splinter.png": {
+"c": [
+"Bulgaria",
+"Army",
+"Splinter"
+],
+"n": "1951 splinter"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian 1979 splinter.png": {
+"c": [
+"Bulgaria",
+"Army",
+"Splinter"
+],
+"n": "1979 splinter"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian Army.png": {
+"c": [
+"Bulgaria",
+"Army",
+"Other"
+],
+"n": "Army"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian DPM AF.png": {
+"c": [
+"Bulgaria",
+"Air Force & Airborne",
+"DPM"
+],
+"n": "DPM AF"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian DPM desert.png": {
+"c": [
+"Bulgaria",
+"Army",
+"DPM"
+],
+"n": "DPM desert"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian DPM rain.png": {
+"c": [
+"Bulgaria",
+"Army",
+"DPM"
+],
+"n": "DPM rain"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian DPM.png": {
+"c": [
+"Bulgaria",
+"Army",
+"DPM"
+],
+"n": "DPM"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Bulgaria/Bulgarian Frogskin.png": {
+"c": [
+"Bulgaria",
+"Army",
+"Frogskin"
+],
+"n": "Frogskin"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Romania/Romanian BSIJ MultiCam.png": {
+"c": [
+"Romania",
+"Army",
+"MultiCam (BSIJ)"
+],
+"n": "BSIJ MultiCam"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Romania/Romanian DPM Desert.png": {
+"c": [
+"Romania",
+"Army",
+"DPM"
+],
+"n": "DPM Desert"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Romania/Romanian DPM Woodland.png": {
+"c": [
+"Romania",
+"Army",
+"DPM"
+],
+"n": "DPM Woodland"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Romania/Romanian M93 Autumn.png": {
+"c": [
+"Romania",
+"Army",
+"M93"
+],
+"n": "M93 Autumn"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Romania/Romanian M93 Summer Urban.png": {
+"c": [
+"Romania",
+"Army",
+"M93"
+],
+"n": "M93 Summer Urban"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Romania/Romanian M93 Summer.png": {
+"c": [
+"Romania",
+"Army",
+"M93"
+],
+"n": "M93 Summer"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Serbia 🇷🇸/Serbian M-MDU-02 1.png": {
+"c": [
+"Serbia",
+"Army",
+"M-MDU"
+],
+"n": "M-MDU-02 1"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Serbia 🇷🇸/Serbian M-MDU-02 2.png": {
+"c": [
+"Serbia",
+"Army",
+"M-MDU"
+],
+"n": "M-MDU-02 2"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Serbia 🇷🇸/Serbian M-MDU-02.png": {
+"c": [
+"Serbia",
+"Army",
+"M-MDU"
+],
+"n": "M-MDU-02"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Serbia 🇷🇸/Serbian M-MDU-10.png": {
+"c": [
+"Serbia",
+"Army",
+"M-MDU"
+],
+"n": "M-MDU-10"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Slovenia/Slovenian M91 1.png": {
+"c": [
+"Slovenia",
+"Army",
+"M91"
+],
+"n": "M91 1"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Slovenia/Slovenian M91 2.png": {
+"c": [
+"Slovenia",
+"Army",
+"M91"
+],
+"n": "M91 2"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Slovenia/Slovenian M91 3.png": {
+"c": [
+"Slovenia",
+"Army",
+"M91"
+],
+"n": "M91 3"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav M87 1.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M87"
+],
+"n": "M87 1"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav M87 2.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M87"
+],
+"n": "M87 2"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav M87 3.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M87"
+],
+"n": "M87 3"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav M89 1.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M89"
+],
+"n": "M89 1"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav M89 2.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M89"
+],
+"n": "M89 2"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav M89 3.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M89"
+],
+"n": "M89 3"
+},
+"Balcans 🇸🇮🇷🇸🇷🇴🇧🇬/Yugoslavia/Yugoslav MD89 Hrastov List.png": {
+"c": [
+"Yugoslavia",
+"Army",
+"M89"
+],
+"n": "MD89 Hrastov List"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AT-X 3 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AT-X 3 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AT-X 3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AT-X 3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AT-X 4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AT-X 4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AT-X 5.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AT-X 5"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 4 M.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 4 M"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 4 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 4 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 4 M4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 4 M4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 4 M5.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 4 M5"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 4-3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 4-3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU 4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU 4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU-X 3 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU-X 3 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU-X 3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU-X 3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU-X 4 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU-X 4 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU-X 4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU-X 4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs AU-X stretch.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs AU-X stretch"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs FG 3-2 M4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs FG 3-2 M4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs FG 3-4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs FG 3-4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs FG-X 4 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs FG-X 4 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs FG-X 4-1.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs FG-X 4-1"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs FG-X 4-3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs FG-X 4-3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs FG-X 4.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs FG-X 4"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs G 3 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs G 3 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs G 3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs G 3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs I-X 3 stretch.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs I-X 3 stretch"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs I-X 3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs I-X 3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs I-X 4 stretch.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs I-X 4 stretch"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs LE 5 stretch.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs LE 5 stretch"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs LE 5.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs LE 5"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs LE-X 3 M2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs LE-X 3 M2"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs LE-X 3.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs LE-X 3"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs LE-X fix stretch.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs LE-X fix stretch"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs S 7.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs S 7"
+},
+"commercial stuff/Advanced Tactical Concealment systems/A-Tacs TD-X v2.png": {
+"c": [
+"Commercial",
+"A-TACS",
+"A-TACS"
+],
+"n": "A-Tacs TD-X v2"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam Alpine.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam Alpine"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam Arid.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam Arid"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam Black.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam Black"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam Tropic.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam Tropic"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam Urban Rubble prototype.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam Urban Rubble prototype"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam Woodland prototype.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam Woodland prototype"
+},
+"commercial stuff/Crye Precision - MultiCam/MultiCam.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam"
+],
+"n": "MultiCam"
+},
+"commercial stuff/Guy Cramer DMCA strike/DECEPTEX Kilo-1.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"Other"
+],
+"n": "DECEPTEX Kilo-1"
+},
+"commercial stuff/Guy Cramer DMCA strike/DECEPTEX USMC OpFor.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"Other"
+],
+"n": "DECEPTEX USMC OpFor"
+},
+"commercial stuff/Guy Cramer DMCA strike/DECEPTEX Victor-16 dither 4.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"Other"
+],
+"n": "DECEPTEX Victor-16 dither 4"
+},
+"commercial stuff/Guy Cramer DMCA strike/DECEPTEX Victor-7.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"Other"
+],
+"n": "DECEPTEX Victor-7"
+},
+"commercial stuff/Guy Cramer DMCA strike/DECEPTEX Victor-9.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"Other"
+],
+"n": "DECEPTEX Victor-9"
+},
+"commercial stuff/Guy Cramer DMCA strike/Hyprestealth Tigerpat.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"Other"
+],
+"n": "Hyprestealth Tigerpat"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Altitude.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Altitude"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Banshee.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Banshee"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Diablo.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Diablo"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Highlander.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Highlander"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Inferno.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Inferno"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Mandrake.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Mandrake"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Mandrake2.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Mandrake2"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Neptune.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Neptune"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Nomad.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Nomad"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Pontus.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Pontus"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Raid.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Raid"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Raid2.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Raid2"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Typhon.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Typhon"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Typhon2.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Typhon2"
+},
+"commercial stuff/Kryptek/Kryptek Leaf Yeti.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Leaf"
+],
+"n": "Kryptek Leaf Yeti"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Actaeon.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Actaeon"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Driftwood.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Driftwood"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Grom.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Grom"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Litus.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Litus"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Loki.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Loki"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Nivis.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Nivis"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Nox.jpg": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Nox"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Nox2.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Nox2"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Oceanus.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Oceanus"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Shallows.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Shallows"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Signa.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Signa"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Sundarban.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Sundarban"
+},
+"commercial stuff/Kryptek/Kryptek Obskura Transitional.png": {
+"c": [
+"Commercial",
+"Kryptek",
+"Obskura"
+],
+"n": "Kryptek Obskura Transitional"
+},
+"commercial stuff/modernism/Gulch CC Axle.png": {
+"c": [
+"Commercial",
+"Gulch",
+"Gulch"
+],
+"n": "Gulch CC Axle"
+},
+"commercial stuff/modernism/Gulch CC Brown.png": {
+"c": [
+"Commercial",
+"Gulch",
+"Gulch"
+],
+"n": "Gulch CC Brown"
+},
+"commercial stuff/modernism/Gulch CC Grey.png": {
+"c": [
+"Commercial",
+"Gulch",
+"Gulch"
+],
+"n": "Gulch CC Grey"
+},
+"commercial stuff/modernism/PenCott BadLands.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott BadLands"
+},
+"commercial stuff/modernism/PenCott DevilDog.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott DevilDog"
+},
+"commercial stuff/modernism/PenCott GreenZone.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott GreenZone"
+},
+"commercial stuff/modernism/PenCott LeatherNeck.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott LeatherNeck"
+},
+"commercial stuff/modernism/PenCott MetroPolis.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott MetroPolis"
+},
+"commercial stuff/modernism/PenCott SandStorm.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott SandStorm"
+},
+"commercial stuff/modernism/PenCott SnowDrift.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott SnowDrift"
+},
+"commercial stuff/modernism/PenCott WildWood.png": {
+"c": [
+"Commercial",
+"PenCott",
+"PenCott"
+],
+"n": "PenCott WildWood"
+},
+"commercial stuff/modernism/Phantomleaf WASP II BLK.2 .png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf WASP II BLK.2"
+},
+"commercial stuff/modernism/Phantomleaf WASP II Z1C - Snow desert.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf WASP II Z1C - Snow desert"
+},
+"commercial stuff/modernism/Phantomleaf WASP II Z2 - Low growing vegetation.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf WASP II Z2 - Low growing vegetation"
+},
+"commercial stuff/modernism/Phantomleaf WASP II Z3A - High vegetation.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf WASP II Z3A - High vegetation"
+},
+"commercial stuff/modernism/Phantomleaf WASP II Z3B - Snow cover.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf WASP II Z3B - Snow cover"
+},
+"commercial stuff/modernism/Phantomleaf WASP II Z4 - Construction.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf WASP II Z4 - Construction"
+},
+"commercial stuff/modernism/Phantomleaf Z2.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf Z2"
+},
+"commercial stuff/modernism/Phantomleaf Z3A.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf Z3A"
+},
+"commercial stuff/modernism/Phantomleaf Z4.png": {
+"c": [
+"Commercial",
+"Phantomleaf",
+"Phantomleaf"
+],
+"n": "Phantomleaf Z4"
+},
+"commercial stuff/modernism/Veil Camo Alpine.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Alpine"
+},
+"commercial stuff/modernism/Veil Camo Aqua.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Aqua"
+},
+"commercial stuff/modernism/Veil Camo Daphne.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Daphne"
+},
+"commercial stuff/modernism/Veil Camo GEO-7 Desert.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo GEO-7 Desert"
+},
+"commercial stuff/modernism/Veil Camo GEO-7 Night.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo GEO-7 Night"
+},
+"commercial stuff/modernism/Veil Camo GEO-7 Terrain.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo GEO-7 Terrain"
+},
+"commercial stuff/modernism/Veil Camo Nimbus.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Nimbus"
+},
+"commercial stuff/modernism/Veil Camo Polar.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Polar"
+},
+"commercial stuff/modernism/Veil Camo Poseidon Dry.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Poseidon Dry"
+},
+"commercial stuff/modernism/Veil Camo Poseidon Terrain.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Poseidon Terrain"
+},
+"commercial stuff/modernism/Veil Camo Poseidon.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Poseidon"
+},
+"commercial stuff/modernism/Veil Camo Tac-Black.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Tac-Black"
+},
+"commercial stuff/modernism/Veil Camo Tac-Blue.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Tac-Blue"
+},
+"commercial stuff/modernism/Veil Camo Tac-Grey.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Camo Tac-Grey"
+},
+"commercial stuff/modernism/Veil GEO-7 Desert.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil GEO-7 Desert"
+},
+"commercial stuff/modernism/Veil GEO-7 Night.png": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil GEO-7 Night"
+},
+"commercial stuff/modernism/Veil GEO-7 Terrain.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil GEO-7 Terrain"
+},
+"commercial stuff/modernism/Veil Poseidon Black.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Poseidon Black"
+},
+"commercial stuff/modernism/Veil Poseidon Dry.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Poseidon Dry"
+},
+"commercial stuff/modernism/Veil Poseidon Grey.jpg": {
+"c": [
+"Commercial",
+"Veil Camo",
+"Veil Camo"
+],
+"n": "Veil Poseidon Grey"
+},
+"commercial stuff/Prym1/Prym1 Abyss.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Abyss"
+},
+"commercial stuff/Prym1/Prym1 Ambush.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Ambush"
+},
+"commercial stuff/Prym1/Prym1 Black Out.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Black Out"
+},
+"commercial stuff/Prym1/Prym1 Black Out2.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Black Out2"
+},
+"commercial stuff/Prym1/Prym1 Blaze Orange.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Blaze Orange"
+},
+"commercial stuff/Prym1/Prym1 Deep Timber.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Deep Timber"
+},
+"commercial stuff/Prym1/Prym1 Eclipse.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Eclipse"
+},
+"commercial stuff/Prym1/Prym1 Fire Storm.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Fire Storm"
+},
+"commercial stuff/Prym1/Prym1 High-Country.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 High-Country"
+},
+"commercial stuff/Prym1/Prym1 High-Country2.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 High-Country2"
+},
+"commercial stuff/Prym1/Prym1 Ice.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Ice"
+},
+"commercial stuff/Prym1/Prym1 Lake Bottom.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Lake Bottom"
+},
+"commercial stuff/Prym1/Prym1 Lime Green(Amped).jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Lime Green(Amped)"
+},
+"commercial stuff/Prym1/Prym1 Mahi(Dorado).jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Mahi(Dorado)"
+},
+"commercial stuff/Prym1/Prym1 Multi-Purpose.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Multi-Purpose"
+},
+"commercial stuff/Prym1/Prym1 Multi-Purpose2.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Multi-Purpose2"
+},
+"commercial stuff/Prym1/Prym1 Pink Out.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Pink Out"
+},
+"commercial stuff/Prym1/Prym1 Red.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Red"
+},
+"commercial stuff/Prym1/Prym1 River.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 River"
+},
+"commercial stuff/Prym1/Prym1 Sand-Storm.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Sand-Storm"
+},
+"commercial stuff/Prym1/Prym1 Sand-Storm2.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Sand-Storm2"
+},
+"commercial stuff/Prym1/Prym1 Shore Line.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Shore Line"
+},
+"commercial stuff/Prym1/Prym1 Silver Mist.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Silver Mist"
+},
+"commercial stuff/Prym1/Prym1 Storm.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Storm"
+},
+"commercial stuff/Prym1/Prym1 Tiger Maroon.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Tiger Maroon"
+},
+"commercial stuff/Prym1/Prym1 Typhoon.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Typhoon"
+},
+"commercial stuff/Prym1/Prym1 Voltage.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Voltage"
+},
+"commercial stuff/Prym1/Prym1 Wave.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Wave"
+},
+"commercial stuff/Prym1/Prym1 White Out(Tundra White).jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 White Out(Tundra White)"
+},
+"commercial stuff/Prym1/Prym1 Wildcat Purple.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Wildcat Purple"
+},
+"commercial stuff/Prym1/Prym1 Woodlands.jpg": {
+"c": [
+"Commercial",
+"Prym1",
+"Prym1"
+],
+"n": "Prym1 Woodlands"
+},
+"commercial stuff/Raider/Raider Concealment Broadsword.jpg": {
+"c": [
+"Commercial",
+"Raider Concealment",
+"Raider"
+],
+"n": "Raider Concealment Broadsword"
+},
+"commercial stuff/Raider/Raider Concealment Gladius.jpg": {
+"c": [
+"Commercial",
+"Raider Concealment",
+"Raider"
+],
+"n": "Raider Concealment Gladius"
+},
+"commercial stuff/Raider/Raider Concealment Katana.jpg": {
+"c": [
+"Commercial",
+"Raider Concealment",
+"Raider"
+],
+"n": "Raider Concealment Katana"
+},
+"commercial stuff/Raider/Raider Concealment Sabre.jpg": {
+"c": [
+"Commercial",
+"Raider Concealment",
+"Raider"
+],
+"n": "Raider Concealment Sabre"
+},
+"commercial stuff/Raider/Raider Concealment Trident.jpg": {
+"c": [
+"Commercial",
+"Raider Concealment",
+"Raider"
+],
+"n": "Raider Concealment Trident"
+},
+"commercial stuff/Raider/Raider Concealment Viking.jpg": {
+"c": [
+"Commercial",
+"Raider Concealment",
+"Raider"
+],
+"n": "Raider Concealment Viking"
+},
+"European Union🇪🇺 bullshit/Belgium 🇧🇪/Belgian Jigsaw desert.png": {
+"c": [
+"Belgium",
+"Army",
+"Jigsaw"
+],
+"n": "Jigsaw desert"
+},
+"European Union🇪🇺 bullshit/Belgium 🇧🇪/Belgian Jigsaw.png": {
+"c": [
+"Belgium",
+"Army",
+"Jigsaw"
+],
+"n": "Jigsaw"
+},
+"European Union🇪🇺 bullshit/France 🇫🇷/French Camouflage Centre-Europe CCE bright.png": {
+"c": [
+"France",
+"Army",
+"CCE"
+],
+"n": "Camouflage Centre-Europe CCE bright"
+},
+"European Union🇪🇺 bullshit/France 🇫🇷/French Camouflage Centre-Europe CCE dark.png": {
+"c": [
+"France",
+"Army",
+"CCE"
+],
+"n": "Camouflage Centre-Europe CCE dark"
+},
+"European Union🇪🇺 bullshit/France 🇫🇷/French Camouflage Centre-Europe CCE GIGN.png": {
+"c": [
+"France",
+"Gendarmerie (GIGN)",
+"CCE"
+],
+"n": "Camouflage Centre-Europe CCE GIGN"
+},
+"European Union🇪🇺 bullshit/France 🇫🇷/French CE old.png": {
+"c": [
+"France",
+"Army",
+"CCE"
+],
+"n": "CE old"
+},
+"European Union🇪🇺 bullshit/France 🇫🇷/French Daguet.png": {
+"c": [
+"France",
+"Army",
+"Daguet"
+],
+"n": "Daguet"
+},
+"European Union🇪🇺 bullshit/France 🇫🇷/French Lizard.png": {
+"c": [
+"France",
+"Army",
+"Lizard"
+],
+"n": "Lizard"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Desert.png": {
+"c": [
+"Italy",
+"Army",
+"Desert"
+],
+"n": "Desert"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetata bright.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetata bright"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetata COMSUBIN.png": {
+"c": [
+"Italy",
+"Navy & Marines",
+"Vegetata"
+],
+"n": "Mimetico Vegetata COMSUBIN"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetata dark.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetata dark"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetata Deserto1 bright.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetata Deserto1 bright"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetata Deserto2.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetata Deserto2"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetata Navy.png": {
+"c": [
+"Italy",
+"Navy & Marines",
+"Vegetata"
+],
+"n": "Mimetico Vegetata Navy"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetato Deserto1 old.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetato Deserto1 old"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetato Deserto2 old.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetato Deserto2 old"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian Mimetico Vegetato old.png": {
+"c": [
+"Italy",
+"Army",
+"Vegetata"
+],
+"n": "Mimetico Vegetato old"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/Italian woodland.png": {
+"c": [
+"Italy",
+"Army",
+"Woodland"
+],
+"n": "Woodland"
+},
+"European Union🇪🇺 bullshit/Latvia 🇱🇻/Desert LatvianPattern.png": {
+"c": [
+"Latvia",
+"Army",
+"LATPAT"
+],
+"n": "Desert LatvianPattern"
+},
+"European Union🇪🇺 bullshit/Latvia 🇱🇻/Latvian border guard.png": {
+"c": [
+"Latvia",
+"Police & Border Guard",
+"Border Guard & Police"
+],
+"n": "Latvian border guard"
+},
+"European Union🇪🇺 bullshit/Latvia 🇱🇻/Latvian police.png": {
+"c": [
+"Latvia",
+"Police & Border Guard",
+"Border Guard & Police"
+],
+"n": "Latvian police"
+},
+"European Union🇪🇺 bullshit/Latvia 🇱🇻/Multi LatvianPattern.png": {
+"c": [
+"Latvia",
+"Army",
+"LATPAT"
+],
+"n": "Multi LatvianPattern"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/polish fleck.png": {
+"c": [
+"Poland",
+"Army",
+"Flecktarn"
+],
+"n": "Fleck"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/polish Fleck2.png": {
+"c": [
+"Poland",
+"Army",
+"Flecktarn"
+],
+"n": "Fleck2"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/polish gepard.png": {
+"c": [
+"Poland",
+"Army",
+"Gepard"
+],
+"n": "Gepard"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/Polish MAPA doc1.png": {
+"c": [
+"Poland",
+"Army",
+"MAPA"
+],
+"n": "MAPA doc1"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/Polish MAPA doc2.png": {
+"c": [
+"Poland",
+"Army",
+"MAPA"
+],
+"n": "MAPA doc2"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/Polish MAPA doc3.png": {
+"c": [
+"Poland",
+"Army",
+"MAPA"
+],
+"n": "MAPA doc3"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/Polish Pantera desert.png": {
+"c": [
+"Poland",
+"Army",
+"Pantera wz.93"
+],
+"n": "Pantera desert"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/Polish Pantera woodland.png": {
+"c": [
+"Poland",
+"Army",
+"Pantera wz.93"
+],
+"n": "Pantera woodland"
+},
+"European Union🇪🇺 bullshit/Poland 🇵🇱 kurwa mac/Polish SG-14.png": {
+"c": [
+"Poland",
+"Army",
+"SG-14"
+],
+"n": "SG-14"
+},
+"European Union🇪🇺 bullshit/Spain 🇪🇸/M09 Ejercito pixelado árido urbano dark.png": {
+"c": [
+"Spain",
+"Army",
+"Pixelado M09"
+],
+"n": "M09 Ejercito pixelado árido urbano dark"
+},
+"European Union🇪🇺 bullshit/Spain 🇪🇸/M09 Ejercito pixelado árido urbano.png": {
+"c": [
+"Spain",
+"Army",
+"Pixelado M09"
+],
+"n": "M09 Ejercito pixelado árido urbano"
+},
+"European Union🇪🇺 bullshit/Spain 🇪🇸/M09 Ejercito pixelado boscoso dark.png": {
+"c": [
+"Spain",
+"Army",
+"Pixelado M09"
+],
+"n": "M09 Ejercito pixelado boscoso dark"
+},
+"European Union🇪🇺 bullshit/Spain 🇪🇸/M09 Ejercito pixelado boscoso.png": {
+"c": [
+"Spain",
+"Army",
+"Pixelado M09"
+],
+"n": "M09 Ejercito pixelado boscoso"
+},
+"European Union🇪🇺 bullshit/Spain 🇪🇸/Spanish marines.png": {
+"c": [
+"Spain",
+"Navy & Marines",
+"Infantería de Marina"
+],
+"n": "Spanish marines"
+},
+"fictional_other/creator Alligator Fists/AF AntPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF AntPat"
+},
+"fictional_other/creator Alligator Fists/AF BatPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF BatPat"
+},
+"fictional_other/creator Alligator Fists/AF CatPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF CatPat"
+},
+"fictional_other/creator Alligator Fists/AF EmuPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF EmuPat"
+},
+"fictional_other/creator Alligator Fists/AF FoxPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF FoxPat"
+},
+"fictional_other/creator Alligator Fists/AF HogPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF HogPat"
+},
+"fictional_other/creator Alligator Fists/AF ImPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF ImPat"
+},
+"fictional_other/creator Alligator Fists/AF KobPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF KobPat"
+},
+"fictional_other/creator Alligator Fists/AF kukri pf 3000 woodland.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF kukri pf 3000 woodland"
+},
+"fictional_other/creator Alligator Fists/AF RatPat.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Alligator Fists"
+],
+"n": "AF RatPat"
+},
+"fictional_other/creator camorus/_multileaf_pixelado_quatro_by_camorus____234_d5y8i8o.jpg": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Multileaf pixelado quatro by camorus    234 d5y8i8o"
+},
+"fictional_other/creator camorus/berezhka_leaf__d13te_sneg_mki_by_camorus____234_d8ef1td.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Berezhka leaf  d13te sneg mki by camorus    234 d8ef1td"
+},
+"fictional_other/creator camorus/ff2_izlom_oreh_sub__d_by_camorus____234_d7daxiv.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Ff2 izlom oreh sub  d by camorus    234 d7daxiv"
+},
+"fictional_other/creator camorus/fg_n_lizard_combo_c_sl_by_camorus____234_de0symh.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Fg n lizard combo c sl by camorus    234 de0symh"
+},
+"fictional_other/creator camorus/finnish__scrub_nd1_by_camorus____234_d5gfz32.jpg": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Scrub nd1 by camorus    234 d5gfz32"
+},
+"fictional_other/creator camorus/finnish_jaeger_cubed_by_camorus____234_d5grby4.jpg": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Jaeger cubed by camorus    234 d5grby4"
+},
+"fictional_other/creator camorus/herbst_mc5_by_camorus____234_d87z2go.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Herbst mc5 by camorus    234 d87z2go"
+},
+"fictional_other/creator camorus/shangri_la_arid_trans1t_by_camorus____234_d7f3bp5.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Shangri la arid trans1t by camorus    234 d7f3bp5"
+},
+"fictional_other/creator camorus/spring_scrubbery_dshd_by_camorus____234_d791hj7.jpg": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Spring scrubbery dshd by camorus    234 d791hj7"
+},
+"fictional_other/creator camorus/twilight_ferns_fractalwinter_mkii_by_camorus____234_d7ftfzy.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Twilight ferns fractalwinter mkii by camorus    234 d7ftfzy"
+},
+"fictional_other/creator camorus/wald_tiger_smls_print_ready__by_camorus____234_dc7y7ov.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Wald tiger smls print ready  by camorus    234 dc7y7ov"
+},
+"fictional_other/creator camorus/wald_tiger_smls_print_ready__by_camorus____234_dc7y7ov(1).png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"camorus"
+],
+"n": "Wald tiger smls print ready  by camorus    234 dc7y7ov(1)"
+},
+"fictional_other/creator GOOBLIBLOO/Bizarre Fall Pattern.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Bizarre Fall Pattern"
+},
+"fictional_other/creator GOOBLIBLOO/Bizarre Green Pattern.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Bizarre Green Pattern"
+},
+"fictional_other/creator GOOBLIBLOO/Gooburb1 Multi.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Gooburb1 Multi"
+},
+"fictional_other/creator GOOBLIBLOO/Gooburb1 Urban.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Gooburb1 Urban"
+},
+"fictional_other/creator GOOBLIBLOO/Gooburb2 Multi.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Gooburb2 Multi"
+},
+"fictional_other/creator GOOBLIBLOO/Hexy.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Hexy"
+},
+"fictional_other/creator GOOBLIBLOO/moss.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Moss"
+},
+"fictional_other/creator GOOBLIBLOO/unknown-248.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Unknown-248"
+},
+"fictional_other/creator GOOBLIBLOO/unknown-391.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Unknown-391"
+},
+"fictional_other/creator GOOBLIBLOO/unknown-402.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Unknown-402"
+},
+"fictional_other/creator GOOBLIBLOO/Urbex5.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Urbex5"
+},
+"fictional_other/creator GOOBLIBLOO/weirdocam.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Weirdocam"
+},
+"fictional_other/creator Harbard1/Clouditan TW.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Clouditan TW"
+},
+"fictional_other/creator Harbard1/Digitago Advando.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Digitago Advando"
+},
+"fictional_other/creator Harbard1/Expeditern American Woodland.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Expeditern American Woodland"
+},
+"fictional_other/creator Harbard1/FOMS-tw.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "FOMS-tw"
+},
+"fictional_other/creator Harbard1/Foxwood Arid Alpha 1.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Foxwood Arid Alpha 1"
+},
+"fictional_other/creator Harbard1/Foxwood Arid Alpha 2.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Foxwood Arid Alpha 2"
+},
+"fictional_other/creator Harbard1/M12 Original.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "M12 Original"
+},
+"fictional_other/creator Harbard1/M90Digi.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "M90Digi"
+},
+"fictional_other/creator Harbard1/Moxogran Desert.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Moxogran Desert"
+},
+"fictional_other/creator Harbard1/Moxogran Temperate.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Moxogran Temperate"
+},
+"fictional_other/creator Harbard1/North In Mind- Advanced Temperate Woodland Camo.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "North In Mind- Advanced Temperate Woodland Camo"
+},
+"fictional_other/creator Harbard1/Palma Summer.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Palma Summer"
+},
+"fictional_other/creator Harbard1/Squetarn.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Squetarn"
+},
+"fictional_other/creator Harbard1/Strela Pinaldo.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Strela Pinaldo"
+},
+"fictional_other/creator Harbard1/Winter Multipattern.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"Harbard1"
+],
+"n": "Winter Multipattern"
+},
+"fictional_other/creator JimLafleur MGS camos/animals.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Animals"
+},
+"fictional_other/creator JimLafleur MGS camos/anubis.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Anubis"
+},
+"fictional_other/creator JimLafleur MGS camos/chameleon.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Chameleon"
+},
+"fictional_other/creator JimLafleur MGS camos/hornetcamo1.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Hornetcamo1"
+},
+"fictional_other/creator JimLafleur MGS camos/Naamloos-1.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Naamloos-1"
+},
+"fictional_other/creator JimLafleur MGS camos/snakecamo.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Snakecamo"
+},
+"fictional_other/creator JimLafleur MGS camos/spidercamo.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Spidercamo"
+},
+"fictional_other/creator JimLafleur MGS camos/swamp.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"JimLafleur MGS camos"
+],
+"n": "Swamp"
+},
+"fictional_other/custom ATACS/Ataka Alpy.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Alpy"
+},
+"fictional_other/custom ATACS/Ataka Dymka.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Dymka"
+},
+"fictional_other/custom ATACS/Ataka F Droog.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Droog"
+},
+"fictional_other/custom ATACS/Ataka F Fantom.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Fantom"
+},
+"fictional_other/custom ATACS/Ataka F Kartoha2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Kartoha2"
+},
+"fictional_other/custom ATACS/Ataka F Krovotok.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Krovotok"
+},
+"fictional_other/custom ATACS/Ataka F Mrak2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Mrak2"
+},
+"fictional_other/custom ATACS/Ataka F Ponosce.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Ponosce"
+},
+"fictional_other/custom ATACS/Ataka F Rusof 1.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Rusof 1"
+},
+"fictional_other/custom ATACS/Ataka F Rusof 2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Rusof 2"
+},
+"fictional_other/custom ATACS/Ataka F Temen.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Temen"
+},
+"fictional_other/custom ATACS/Ataka F Uragan.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Uragan"
+},
+"fictional_other/custom ATACS/Ataka F Vrag.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Vrag"
+},
+"fictional_other/custom ATACS/Ataka F Zatmenie.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka F Zatmenie"
+},
+"fictional_other/custom ATACS/Ataka Kust.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Kust"
+},
+"fictional_other/custom ATACS/Ataka Neutral.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Neutral"
+},
+"fictional_other/custom ATACS/Ataka Noch.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Noch"
+},
+"fictional_other/custom ATACS/Ataka Pesok2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Pesok2"
+},
+"fictional_other/custom ATACS/Ataka Pustinya.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Pustinya"
+},
+"fictional_other/custom ATACS/Ataka Sneg.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Sneg"
+},
+"fictional_other/custom ATACS/Ataka Tropiki.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Tropiki"
+},
+"fictional_other/custom ATACS/Ataka Tundra.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Tundra"
+},
+"fictional_other/custom ATACS/Ataka Tyulen.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Tyulen"
+},
+"fictional_other/custom ATACS/Ataka Universalnaya.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Universalnaya"
+},
+"fictional_other/custom ATACS/Ataka Vysota.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Vysota"
+},
+"fictional_other/custom ATACS/Ataka Vyzhivalshik.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Vyzhivalshik"
+},
+"fictional_other/custom ATACS/Ataka Zaval2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom ATACS"
+],
+"n": "Ataka Zaval2"
+},
+"fictional_other/custom MultiCam/AmeriCam Universal Dirt.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "AmeriCam Universal Dirt"
+},
+"fictional_other/custom MultiCam/AmeriCam Universal.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "AmeriCam Universal"
+},
+"fictional_other/custom MultiCam/AmogusCam Urban.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "AmogusCam Urban"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #1.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #1"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #10.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #10"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #2"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #3.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #3"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #4.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #4"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #5.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #5"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #6.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #6"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #7.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #7"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #8.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #8"
+},
+"fictional_other/custom MultiCam/Charlie-7 A4 #9.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Charlie-7 A4 #9"
+},
+"fictional_other/custom MultiCam/Multi OCP woodland palette.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi OCP woodland palette"
+},
+"fictional_other/custom MultiCam/Multi Phantoms.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi Phantoms"
+},
+"fictional_other/custom MultiCam/Multi SS Summer.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi SS Summer"
+},
+"fictional_other/custom MultiCam/Multicamo Brown.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multicamo Brown"
+},
+"fictional_other/custom MultiCam/Multicamo cheap black.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multicamo cheap black"
+},
+"fictional_other/custom MultiCam/Multicamo cheap green.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multicamo cheap green"
+},
+"fictional_other/custom MultiCam/Multicamo cheap red.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multicamo cheap red"
+},
+"fictional_other/custom MultiCam/MultiFleck Retro.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiFleck Retro"
+},
+"fictional_other/custom MultiCam/MultiFleck Tropentarn.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiFleck Tropentarn"
+},
+"fictional_other/custom MultiCam/MultiStealth Knight.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiStealth Knight"
+},
+"fictional_other/custom MultiCam/MultiTacs F Advanced Foliage.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiTacs F Advanced Foliage"
+},
+"fictional_other/custom MultiCam/MultiTacs F Advanced Intermediate.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiTacs F Advanced Intermediate"
+},
+"fictional_other/custom MultiCam/MultiTacs F Advanced Intermediate2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiTacs F Advanced Intermediate2"
+},
+"fictional_other/custom MultiCam/MultiTacs F Advanced Law-Enforcement.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiTacs F Advanced Law-Enforcement"
+},
+"fictional_other/custom MultiCam/MultiTech Loki.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "MultiTech Loki"
+},
+"fictional_other/custom MultiCam/SwagCam Pink.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "SwagCam Pink"
+},
+"fictional_other/custom MultiCam/VariCam Adv.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam Adv"
+},
+"fictional_other/custom MultiCam/VariCam Brown.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam Brown"
+},
+"fictional_other/custom MultiCam/VariCam cheap black.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam cheap black"
+},
+"fictional_other/custom MultiCam/VariCam cheap green.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam cheap green"
+},
+"fictional_other/custom MultiCam/VariCam cheap red.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam cheap red"
+},
+"fictional_other/custom MultiCam/VariCam Deadwood.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam Deadwood"
+},
+"fictional_other/custom MultiCam/VariCam Smoker.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam Smoker"
+},
+"fictional_other/custom MultiCam/VariCam Zulu brighter.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam Zulu brighter"
+},
+"fictional_other/custom MultiCam/VariCam Zulu.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "VariCam Zulu"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 AORD.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 AORD"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 ATACSFG.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 ATACSFG"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 ATACSIX.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 ATACSIX"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 EMR.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 EMR"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 MC.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 MC"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 MCAR.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 MCAR"
+},
+"fictional_other/custom russian/GordonWeedman Digital Desert2 RUDD.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom russian"
+],
+"n": "GordonWeedman Digital Desert2 RUDD"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-12 Viper.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-12 Viper"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-2 Neutral.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-2 Neutral"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-2 Rubble3.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-2 Rubble3"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-2 Snow5-2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-2 Snow5-2"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-4 Black v2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-4 Black v2"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-4 Black.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-4 Black"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-4 Entry Point5.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-4 Entry Point5"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-4 Seek.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-4 Seek"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-4 Seek2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-4 Seek2"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-5 Snow.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-5 Snow"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Alpha-5 Transitional.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Alpha-5 Transitional"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-7 Airforce.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-7 Airforce"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-7 Arid2.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-7 Arid2"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-7 Navy.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-7 Navy"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-7 Suburban additional.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-7 Suburban additional"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-7 Suburban.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-7 Suburban"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-7 Tropic.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-7 Tropic"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-82 Airforce.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-82 Airforce"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-82 Sage.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-82 Sage"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-82 Woods.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-82 Woods"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Brush-92 Go-Away Green.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Brush-92 Go-Away Green"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Echo-2 Coyote3.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Echo-2 Coyote3"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Frost Alpine.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Frost Alpine"
+},
+"fictional_other/DigiMulti(bad)/DigiMulti Golf-2 Knight.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"DigiMulti(bad)"
+],
+"n": "DigiMulti Golf-2 Knight"
+},
+"fictional_other/Grach Atacama/Grach Atacama Forest Sun Buns.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Forest Sun Buns"
+},
+"fictional_other/Grach Atacama/Grach Atacama Inky Snow.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Inky Snow"
+},
+"fictional_other/Grach Atacama/Grach Atacama Metro.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Metro"
+},
+"fictional_other/Grach Atacama/Grach Atacama New Soviet (Berëzka).png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama New Soviet (Berëzka)"
+},
+"fictional_other/Grach Atacama/Grach Atacama Police Urban.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Police Urban"
+},
+"fictional_other/Grach Atacama/Grach Atacama Spec4CE Desert.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Spec4CE Desert"
+},
+"fictional_other/Grach Atacama/Grach Atacama Spec4CE Snow.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Spec4CE Snow"
+},
+"fictional_other/Grach Atacama/Grach Atacama Spec4CE Temperate.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Spec4CE Temperate"
+},
+"fictional_other/Grach Atacama/Grach Atacama Spec4CE Urban Light.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Spec4CE Urban Light"
+},
+"fictional_other/Grach Atacama/Grach Atacama Spec4CE Winter.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Spec4CE Winter"
+},
+"fictional_other/Grach Atacama/Grach Atacama Spec4CE Woodland.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Spec4CE Woodland"
+},
+"fictional_other/Grach Atacama/Grach Atacama Tropical.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Tropical"
+},
+"fictional_other/Grach Atacama/Grach Atacama Unrastered.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Unrastered"
+},
+"fictional_other/Grach Atacama/Grach Atacama Urban Shadow.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Urban Shadow"
+},
+"fictional_other/Grach Atacama/Grach Atacama Woodland Insurgent.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Grach Atacama"
+],
+"n": "Grach Atacama Woodland Insurgent"
+},
+"fictional_other/Jigsaw Multicam/Multi-Jigsaw Alpine.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Jigsaw Multicam"
+],
+"n": "Multi-Jigsaw Alpine"
+},
+"fictional_other/Jigsaw Multicam/Multi-Jigsaw Arid.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Jigsaw Multicam"
+],
+"n": "Multi-Jigsaw Arid"
+},
+"fictional_other/Jigsaw Multicam/Multi-Jigsaw Black.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Jigsaw Multicam"
+],
+"n": "Multi-Jigsaw Black"
+},
+"fictional_other/Jigsaw Multicam/Multi-Jigsaw Tropic.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Jigsaw Multicam"
+],
+"n": "Multi-Jigsaw Tropic"
+},
+"fictional_other/Jigsaw Multicam/Multi-Jigsaw.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"Jigsaw Multicam"
+],
+"n": "Multi-Jigsaw"
+},
+"Germany 🇩🇪/Splinter/german bundeswehr Splinter airborne.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Splinter (Splittertarn)"
+],
+"n": "Bundeswehr Splinter airborne"
+},
+"Germany 🇩🇪/Splinter/german bundeswehr splinter experimental.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Splinter (Splittertarn)"
+],
+"n": "Bundeswehr splinter experimental"
+},
+"Germany 🇩🇪/Splinter/german bundeswehr Splinter infantry.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Splinter (Splittertarn)"
+],
+"n": "Bundeswehr Splinter infantry"
+},
+"Germany 🇩🇪/Splinter/german bundeswehr Splinter starke 1.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Splinter (Splittertarn)"
+],
+"n": "Bundeswehr Splinter starke 1"
+},
+"Germany 🇩🇪/Splinter/german bundeswehr Splinter starke 2.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Splinter (Splittertarn)"
+],
+"n": "Bundeswehr Splinter starke 2"
+},
+"Germany 🇩🇪/Splinter/german bundeswehr Splinter starke 3.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Splinter (Splittertarn)"
+],
+"n": "Bundeswehr Splinter starke 3"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/Finland M05 Snow.jpg": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "Finland M05 Snow"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/Finnish k04 relish.png": {
+"c": [
+"Finland",
+"Army",
+"M04 / K2004"
+],
+"n": "K04 relish"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/Finnish k2004 desert.png": {
+"c": [
+"Finland",
+"Army",
+"M04 / K2004"
+],
+"n": "K2004 desert"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/Finnish k2004 woodland.png": {
+"c": [
+"Finland",
+"Army",
+"M04 / K2004"
+],
+"n": "K2004 woodland"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 cold weather.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 cold weather"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 desert1.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 desert1"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 desert2.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 desert2"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 relish.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 relish"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 snow.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 snow"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 urban conjecture.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 urban conjecture"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/finnish m05 woodland.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 woodland"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/m05 crye.png": {
+"c": [
+"Finland",
+"Army",
+"M05"
+],
+"n": "M05 crye"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/vehicle Finnish tank snow.png": {
+"c": [
+"Finland",
+"Vehicles",
+"Vehicles"
+],
+"n": "Vehicle Finnish tank snow"
+},
+"Nordic 🇩🇰🇳🇴🇫🇮🇸🇪/Finland 🇫🇮 perkele savotta/vehicle Finnish tank summer.png": {
+"c": [
+"Finland",
+"Vehicles",
+"Vehicles"
+],
+"n": "Vehicle Finnish tank summer"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Airborne 50x65cm.png": {
+"c": [
+"Russia",
+"Airborne (VDV)",
+"Flora (VSR-98)"
+],
+"n": "Airborne 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Arid 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Arid 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/bright Highland 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Bright Highland 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/bright Lowland 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Bright Lowland 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/g2847.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "G2847"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/g2907.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "G2907"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/g2976.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "G2976"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/g3006.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "G3006"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/g3014.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "G3014"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Highland 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Highland 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Lowland 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Lowland 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Mountain 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Mountain 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/S 137 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "S 137 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/S 14 BYu 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "S 14 BYu 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/S 18-1 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "S 18-1 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/S 193 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "S 193 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Steppes 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Steppes 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Tiger 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Tiger 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Woodland brown 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Woodland brown 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/1998 3-TsV Flora Arbuz/Woodland grey 50x65cm.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "Woodland grey 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Cherniy Moh 6.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Cherniy Moh 6"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Huica 1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Huica 1"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Huica 2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Huica 2"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Lynx Arctic.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Lynx Arctic"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Nato 2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Nato 2"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Siniy Moh 3-1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Siniy Moh 3-1"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Siniy Moh 3-2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Siniy Moh 3-2"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Tuman 3.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Tuman 3"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Zeleniy Moh 7-3.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Zeleniy Moh 7-3"
+},
+"Russia 🇷🇺 kursk offensive/atakk/Ataka Zeleniy Moh 7.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Ataka (A-TACS copies)"
+],
+"n": "Ataka Zeleniy Moh 7"
+},
+"Russia 🇷🇺 kursk offensive/Border Guard-Pogranichnik/Pogranichnik Desert.png": {
+"c": [
+"Russia",
+"Border Guard",
+"Pogranichnik"
+],
+"n": "Pogranichnik Desert"
+},
+"Russia 🇷🇺 kursk offensive/Border Guard-Pogranichnik/Pogranichnik Summer.png": {
+"c": [
+"Russia",
+"Border Guard",
+"Pogranichnik"
+],
+"n": "Pogranichnik Summer"
+},
+"Russia 🇷🇺 kursk offensive/Border Guard-Pogranichnik/Pogranichnik Woodland.png": {
+"c": [
+"Russia",
+"Border Guard",
+"Pogranichnik"
+],
+"n": "Pogranichnik Woodland"
+},
+"Russia 🇷🇺 kursk offensive/Border Guard-Pogranichnik/Pogranichnik.png": {
+"c": [
+"Russia",
+"Border Guard",
+"Pogranichnik"
+],
+"n": "Pogranichnik"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR 6Sh122 Autumn.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR 6Sh122 Autumn"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR 6Sh122 Desert.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR 6Sh122 Desert"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR 6Sh122 Spring.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR 6Sh122 Spring"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR 6Sh122 Winter.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR 6Sh122 Winter"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR FSIN.png": {
+"c": [
+"Russia",
+"Police & National Guard",
+"EMR (Tsifra)"
+],
+"n": "EMR FSIN"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Airborne.png": {
+"c": [
+"Russia",
+"Airborne (VDV)",
+"EMR (Tsifra)"
+],
+"n": "EMR square Airborne"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Arid.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Arid"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Bloodied Woodland.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Bloodied Woodland"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Desert.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Desert"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Green-Man.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Green-Man"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Green-Man2.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Green-Man2"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Highland Brown.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Highland Brown"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Highland Grey.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Highland Grey"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Lowland.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Lowland"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square MCam1.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square MCam1"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Mountain.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Mountain"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Steppes.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Steppes"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Subdued Woodland.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Subdued Woodland"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Summer.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Summer"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Taiga.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Taiga"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Urban.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Urban"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square v3.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square v3"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square v5.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square v5"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Winter1.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Winter1"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Winter2.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Winter2"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Winter3.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Winter3"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Winter4.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Winter4"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Winter5.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Winter5"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Woodland Bright.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Woodland Bright"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR square Woodland.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR square Woodland"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Syria.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Syria"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Urban.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Urban"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v1.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v1"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v10.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v10"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v11.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v11"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v12.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v12"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v13 Green-Man.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v13 Green-Man"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v14 Woodland Bright.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v14 Woodland Bright"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v15 Bloodied Woodland.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v15 Bloodied Woodland"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v16 Mountain.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v16 Mountain"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v2.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v2"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v3.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v3"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v4.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v4"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v5.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v5"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v6.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v6"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v7.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v7"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v8.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v8"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR v9.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR v9"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Winter v1.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Winter v1"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Winter v2.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Winter v2"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Winter v3.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Winter v3"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Winter v4.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Winter v4"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/Russian EMR Winter v5.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR Winter v5"
+},
+"Russia 🇷🇺 kursk offensive/DigiFlora/russian EMR.png": {
+"c": [
+"Russia",
+"Army",
+"EMR (Tsifra)"
+],
+"n": "EMR"
+},
+"Russia 🇷🇺 kursk offensive/Digital Desert/Russian Digital Beige Syrian Desert.png": {
+"c": [
+"Russia",
+"Army",
+"Digital"
+],
+"n": "Digital Beige Syrian Desert"
+},
+"Russia 🇷🇺 kursk offensive/Digital Desert/Russian Digital FSIN Blue Urban.png": {
+"c": [
+"Russia",
+"Police & National Guard",
+"Digital"
+],
+"n": "Digital FSIN Blue Urban"
+},
+"Russia 🇷🇺 kursk offensive/Digital Desert/Russian Digital OSN Woodland.png": {
+"c": [
+"Russia",
+"Army",
+"Digital"
+],
+"n": "Digital OSN Woodland"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/arid 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Arid 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/Kamush arid.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Kamush arid"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/Kamush PFO.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Kamush PFO"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/Kamush Ten.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Kamush Ten"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/Kamush Tigr.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Kamush Tigr"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/lowland  50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Lowland  50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/metro 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Metro 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/PFO 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "PFO 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/police 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Police 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh Arid.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh Arid"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh Lowland.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh Lowland"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh PFO.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh PFO"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh Ten.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh Ten"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh Tigr.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh Tigr"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver1"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver2"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver3.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver3"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver4.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver4"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver5.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver5"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver6.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver6"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver7.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver7"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver8.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver8"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh ver9.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh ver9"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/SPLAV-Kamysh Woodland.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "SPLAV-Kamysh Woodland"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/Ten 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Ten 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/Tigr 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Tigr 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh SPLAV/woodland 50x65cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (SPLAV)"
+],
+"n": "Woodland 50x65cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/Police 50x40cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "Police 50x40cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/Urban 50x40cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "Urban 50x40cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver1"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver2"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver3.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver3"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver4.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver4"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver5.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver5"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver6.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver6"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver7.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver7"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/VERA-Kamysh ver8.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "VERA-Kamysh ver8"
+},
+"Russia 🇷🇺 kursk offensive/Kamysh VERA/Woodland 50x40cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Kamysh (VERA)"
+],
+"n": "Woodland 50x40cm"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok BrownUnderbrush.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok BrownUnderbrush"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok Exp1.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok Exp1"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok GreenUnderbrush.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok GreenUnderbrush"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok NightOwl.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok NightOwl"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok underbrush.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok underbrush"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok urban.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok urban"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/Podlesok urban2.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Podlesok urban2"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/reed_BrownUnderbrush.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Reed BrownUnderbrush"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/reed_GreenUnderbrush.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Reed GreenUnderbrush"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/reed_NightOwl.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Reed NightOwl"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/reed_underbrush.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Reed underbrush"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/reed_urban.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Reed urban"
+},
+"Russia 🇷🇺 kursk offensive/Kamyshovyy Risunok Reed-Podlesok/reed_urban2.png": {
+"c": [
+"Russia",
+"Army",
+"Podlesok / Reed"
+],
+"n": "Reed urban2"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 1.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 1"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 2.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 2"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 3.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 3"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 4.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 4"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 45x44cm urban.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 45x44cm urban"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 45x44cm woodland 2.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 45x44cm woodland 2"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 45x44cm woodland 3.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 45x44cm woodland 3"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 45x44cm woodland.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 45x44cm woodland"
+},
+"Russia 🇷🇺 kursk offensive/Komplekt Kamuflirovannogo Obmundirovanniya/Russian KKO 5.png": {
+"c": [
+"Russia",
+"Army",
+"KKO"
+],
+"n": "KKO 5"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/Russian Gorod Metro 73x55cm.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Gorod Metro 73x55cm"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/Russian Gorod Urban  73x55cm.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Gorod Urban  73x55cm"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/Russian Gorod3.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Gorod3"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/Russian Les 73x55cm highland.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Les 73x55cm highland"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/Russian Les 73x55cm lowland.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Les 73x55cm lowland"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/russian Les1.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Les1"
+},
+"Russia 🇷🇺 kursk offensive/Les-Gorod/russian Les2.png": {
+"c": [
+"Russia",
+"Army",
+"Les / Gorod"
+],
+"n": "Les2"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/Russian SMK 1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "SMK 1"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/Russian SMK 2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "SMK 2"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/Russian SMK 3.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "SMK 3"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/russian SMK type1 cold weather.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "SMK type1 cold weather"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/russian SMK type3 urban2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "SMK type3 urban2"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/type1 urban 20x20cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "Type1 urban 20x20cm"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/type1 woodland 20x20cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "Type1 woodland 20x20cm"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/type2 urban1 20x20cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "Type2 urban1 20x20cm"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/type2 urban2 20x20cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "Type2 urban2 20x20cm"
+},
+"Russia 🇷🇺 kursk offensive/MVD spetsial_nyi maskirovochnyi komplekt/type2 woodlad 20x20cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SMK"
+],
+"n": "Type2 woodlad 20x20cm"
+},
+"Russia 🇷🇺 kursk offensive/Rastr/Rastr 88,5x84cm.png": {
+"c": [
+"Russia",
+"Army",
+"Rastr"
+],
+"n": "Rastr 88,5x84cm"
+},
+"Russia 🇷🇺 kursk offensive/Rastr/Rastr overprint layer.png": {
+"c": [
+"Russia",
+"Army",
+"Rastr"
+],
+"n": "Rastr overprint layer"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/plain woodland 60x67cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Plain woodland 60x67cm"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog or Kukla.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog or Kukla"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 1"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 2"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 3.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 3"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 4.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 4"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 5.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 5"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 6.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 6"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 7.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 7"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/Russian Smog(Kukla) Woodland 8.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Smog(Kukla) Woodland 8"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/stippled urban 60x67cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Stippled urban 60x67cm"
+},
+"Russia 🇷🇺 kursk offensive/Smog-Kukla/stippled woodland 60x67cm.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Smog / Kukla"
+],
+"n": "Stippled woodland 60x67cm"
+},
+"Russia 🇷🇺 kursk offensive/Spectre/Spectre SKVO.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Spectre"
+],
+"n": "Spectre SKVO"
+},
+"Russia 🇷🇺 kursk offensive/Spectre/Spectre Spring.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Spectre"
+],
+"n": "Spectre Spring"
+},
+"Russia 🇷🇺 kursk offensive/Spectre/Spectre Summer.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Spectre"
+],
+"n": "Spectre Summer"
+},
+"Russia 🇷🇺 kursk offensive/SRVV/SURPAT 3D bright.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SURPAT"
+],
+"n": "SURPAT 3D bright"
+},
+"Russia 🇷🇺 kursk offensive/SRVV/SURPAT 3D dark.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SURPAT"
+],
+"n": "SURPAT 3D dark"
+},
+"Russia 🇷🇺 kursk offensive/SRVV/SURPAT new.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SURPAT"
+],
+"n": "SURPAT new"
+},
+"Russia 🇷🇺 kursk offensive/SRVV/SURPAT old.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SURPAT"
+],
+"n": "SURPAT old"
+},
+"Russia 🇷🇺 kursk offensive/SRVV/SURPAT Savanna 3D bright.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SURPAT"
+],
+"n": "SURPAT Savanna 3D bright"
+},
+"Russia 🇷🇺 kursk offensive/SRVV/SURPAT savanna 3D dark.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"SURPAT"
+],
+"n": "SURPAT savanna 3D dark"
+},
+"Russia 🇷🇺 kursk offensive/Tactic-9/Inej.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Tactic-9"
+],
+"n": "Inej"
+},
+"Russia 🇷🇺 kursk offensive/Tactic-9/Sumrak 1.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Tactic-9"
+],
+"n": "Sumrak 1"
+},
+"Russia 🇷🇺 kursk offensive/Tactic-9/Sumrak 2.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Tactic-9"
+],
+"n": "Sumrak 2"
+},
+"Russia 🇷🇺 kursk offensive/Tactic-9/Tactic-9 Eger rip-off.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Tactic-9"
+],
+"n": "Tactic-9 Eger rip-off"
+},
+"Russia 🇷🇺 kursk offensive/Tactic-9/Tactic-9 Pervotrop.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Tactic-9"
+],
+"n": "Tactic-9 Pervotrop"
+},
+"Russia 🇷🇺 kursk offensive/Tactic-9/Tactic-9 Toros.png": {
+"c": [
+"Russia",
+"Special forces & MVD",
+"Tactic-9"
+],
+"n": "Tactic-9 Toros"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Camo_Russia_VSR.jpg": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "Russia VSR"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 1.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 1"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 10.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 10"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 11.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 11"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 12.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 12"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 13.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 13"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 14.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 14"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 15.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 15"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 16.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 16"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 17.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 17"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 18.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 18"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 19.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 19"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 2.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 2"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 20.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 20"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 21.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 21"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 22.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 22"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 3.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 3"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 4.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 4"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 5.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 5"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 6.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 6"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 7.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 7"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 8.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 8"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-93 9.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR-93 9"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-98 1.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "VSR-98 1"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR-98 2.png": {
+"c": [
+"Russia",
+"Army",
+"Flora (VSR-98)"
+],
+"n": "VSR-98 2"
+},
+"Russia 🇷🇺 kursk offensive/VSR/Russian VSR.png": {
+"c": [
+"Russia",
+"Army",
+"VSR-93"
+],
+"n": "VSR"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush Desert Urban.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush Desert Urban"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush Desert.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush Desert"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush MoD Desert.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush MoD Desert"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush Phase III.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush Phase III"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush UCP.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush UCP"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush Urban.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush Urban"
+},
+"USA 🇺🇸 orange man/All-over brush/American All-over-brush woodland.png": {
+"c": [
+"United States",
+"US Army",
+"All-Over Brush (UCP trials)"
+],
+"n": "All-over-brush woodland"
+},
+"USA 🇺🇸 orange man/Desert/American 3 Color Desert (Coffee Stain).png": {
+"c": [
+"United States",
+"All services",
+"Desert (DBDU / DCU)"
+],
+"n": "3 Color Desert (Coffee Stain)"
+},
+"USA 🇺🇸 orange man/Desert/American 6-color desert.png": {
+"c": [
+"United States",
+"All services",
+"Desert (DBDU / DCU)"
+],
+"n": "6-color desert"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American ABU Digital Tiger - Rit Apple Green dye.png": {
+"c": [
+"United States",
+"US Air Force",
+"ABU"
+],
+"n": "ABU Digital Tiger - Rit Apple Green dye"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American ABU Digital Tiger dark.png": {
+"c": [
+"United States",
+"US Air Force",
+"ABU"
+],
+"n": "ABU Digital Tiger dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American ABU Digital Tiger.png": {
+"c": [
+"United States",
+"US Air Force",
+"ABU"
+],
+"n": "ABU Digital Tiger"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American DCU Digital pixelated.png": {
+"c": [
+"United States",
+"All services",
+"Desert (DBDU / DCU)"
+],
+"n": "DCU Digital pixelated"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/american Dual-Tex 1975.png": {
+"c": [
+"United States",
+"Experimental",
+"Prototypes & trials"
+],
+"n": "American Dual-Tex 1975"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American MARPAT Desert.png": {
+"c": [
+"United States",
+"USMC",
+"MARPAT"
+],
+"n": "MARPAT Desert"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American MARPAT Urban Experimental.png": {
+"c": [
+"United States",
+"USMC",
+"MARPAT"
+],
+"n": "MARPAT Urban Experimental"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American MARPAT Woodland bright.png": {
+"c": [
+"United States",
+"USMC",
+"MARPAT"
+],
+"n": "MARPAT Woodland bright"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American MARPAT Woodland dark.png": {
+"c": [
+"United States",
+"USMC",
+"MARPAT"
+],
+"n": "MARPAT Woodland dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP - Rit Apple Green dye.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP - Rit Apple Green dye"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP bright.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP bright"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP dark.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Alpha dark.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Alpha dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Alpha.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Alpha"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Beta dark.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Beta dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Beta.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Beta"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Delta dark.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Delta dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Delta.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Delta"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Epsilon dark.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Epsilon dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Epsilon.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Epsilon"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Gamma dark.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Gamma dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP-Gamma.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP-Gamma"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American UCP.png": {
+"c": [
+"United States",
+"US Army",
+"UCP"
+],
+"n": "UCP"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN NWU-A Type I.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN NWU-A Type I"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN NWU-D.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN NWU-D"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-AOR Universal corrected.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-AOR Universal corrected"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-AOR Universal.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-AOR Universal"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type II AOR1 bright.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type II AOR1 bright"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type II AOR1 bright2.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type II AOR1 bright2"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type II AOR1 corrected.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type II AOR1 corrected"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type II AOR1 dark.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type II AOR1 dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type II AOR1 dark2.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type II AOR1 dark2"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type III AOR2 bright.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type III AOR2 bright"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type III AOR2 corrected.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type III AOR2 corrected"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type III AOR2 dark.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type III AOR2 dark"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American USN-NWU Type IV meme.png": {
+"c": [
+"United States",
+"US Navy",
+"NWU / AOR"
+],
+"n": "USN-NWU Type IV meme"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/American Woodland Digital pixelated.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "Woodland Digital pixelated"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/Beyond DG trial.png": {
+"c": [
+"United States",
+"Experimental",
+"Prototypes & trials"
+],
+"n": "Beyond DG trial"
+},
+"USA 🇺🇸 orange man/Digital_Pixel patterns/GayPat.png": {
+"c": [
+"United States",
+"Experimental",
+"Joke patterns"
+],
+"n": "GayPat"
+},
+"USA 🇺🇸 orange man/Tigerstripes/American ABU Digital Tiger.png": {
+"c": [
+"United States",
+"US Air Force",
+"ABU"
+],
+"n": "ABU Digital Tiger"
+},
+"USA 🇺🇸 orange man/Tigerstripes/US Desert Tigerstripe.png": {
+"c": [
+"United States",
+"Vietnam era",
+"Tigerstripe"
+],
+"n": "Desert Tigerstripe"
+},
+"USA 🇺🇸 orange man/Tigerstripes/US Jungle Tigerstripe.png": {
+"c": [
+"United States",
+"Vietnam era",
+"Tigerstripe"
+],
+"n": "Jungle Tigerstripe"
+},
+"USA 🇺🇸 orange man/Tigerstripes/Vietnam War Tigerstripe.png": {
+"c": [
+"United States",
+"Vietnam era",
+"Tigerstripe"
+],
+"n": "Vietnam War Tigerstripe"
+},
+"USA 🇺🇸 orange man/Urban/American M81 Urban.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Urban"
+},
+"USA 🇺🇸 orange man/Urban/American Marine Experimental urban.png": {
+"c": [
+"United States",
+"USMC",
+"Experimental"
+],
+"n": "Marine Experimental urban"
+},
+"USA 🇺🇸 orange man/Urban/T-Block MOUT-T desert.png": {
+"c": [
+"United States",
+"Experimental",
+"T-Block MOUT"
+],
+"n": "T-Block MOUT-T desert"
+},
+"USA 🇺🇸 orange man/Urban/T-Block MOUT-T GABON desert.png": {
+"c": [
+"United States",
+"Experimental",
+"T-Block MOUT"
+],
+"n": "T-Block MOUT-T GABON desert"
+},
+"USA 🇺🇸 orange man/Urban/T-Block MOUT-T normal grey.png": {
+"c": [
+"United States",
+"Experimental",
+"T-Block MOUT"
+],
+"n": "T-Block MOUT-T normal grey"
+},
+"USA 🇺🇸 orange man/Urban/T-Block MOUT-T reddish grey.png": {
+"c": [
+"United States",
+"Experimental",
+"T-Block MOUT"
+],
+"n": "T-Block MOUT-T reddish grey"
+},
+"USA 🇺🇸 orange man/Woodlands/American ERDL 1975 disruptive.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL 1975 disruptive"
+},
+"USA 🇺🇸 orange man/Woodlands/American ERDL Highland.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Highland"
+},
+"USA 🇺🇸 orange man/Woodlands/American ERDL Lowland.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Lowland"
+},
+"USA 🇺🇸 orange man/Woodlands/American ERDL RFD.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL RFD"
+},
+"USA 🇺🇸 orange man/Woodlands/American m81 Woodland.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Highland 1.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Highland 1"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Highland 2.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Highland 2"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Highland 3.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Highland 3"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Highland 4.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Highland 4"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Lowland 1.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Lowland 1"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Lowland 2.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Lowland 2"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Lowland 3.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Lowland 3"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Lowland 4.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Lowland 4"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Transitional 1.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Transitional 1"
+},
+"USA 🇺🇸 orange man/Woodlands/ERDL Transitional 2.png": {
+"c": [
+"United States",
+"Vietnam era",
+"ERDL"
+],
+"n": "ERDL Transitional 2"
+},
+"USA 🇺🇸 orange man/Woodlands/M81 Woodland 1.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland 1"
+},
+"USA 🇺🇸 orange man/Woodlands/M81 Woodland 2.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland 2"
+},
+"USA 🇺🇸 orange man/Woodlands/M81 Woodland 3.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland 3"
+},
+"USA 🇺🇸 orange man/Woodlands/M81 Woodland 4.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland 4"
+},
+"USA 🇺🇸 orange man/Woodlands/M81 Woodland 5.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland 5"
+},
+"USA 🇺🇸 orange man/Woodlands/US M81 Woodland 2ft vertical repeat.png": {
+"c": [
+"United States",
+"All services",
+"M81 Woodland"
+],
+"n": "M81 Woodland 2ft vertical repeat"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_airborne.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO airborne"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_brown.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO brown"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_brown+oxblood.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO brown+oxblood"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_green.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO green"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_green+redbrown.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO green+redbrown"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_mountain.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO mountain"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 3-TsV TTsKO_woodland.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 3-TsV TTsKO woodland"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 TTsKO airborne.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 TTsKO airborne"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 TTsKO brown+oxblood.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 TTsKO brown+oxblood"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet 1983 TTsKO mountain.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "1983 TTsKO mountain"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet TTsKO Butan pre-1991.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "TTsKO Butan pre-1991"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet TTsKO Butan-A.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "TTsKO Butan-A"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet TTsKO Butan-P.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "TTsKO Butan-P"
+},
+"USSR(i finally added some)/1983 3-TsV TTsKO Butan/Soviet TTsKO Butan.png": {
+"c": [
+"Soviet Union",
+"Army",
+"TTsKO / Butan"
+],
+"n": "TTsKO Butan"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Arid.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Arid"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Arid1.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Arid1"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Arid2.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Arid2"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Brownie.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Brownie"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Desert.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Desert"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Naval.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Naval"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Pacific.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Pacific"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Semi-Arid.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Semi-Arid"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Urban Blue.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Urban Blue"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Urban.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Urban"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Urban2.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Urban2"
+},
+"vidya_Movies 🎥/ArmA3/ARMA3 CSAT Hexcam Woodland.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"CSAT Hex"
+],
+"n": "ARMA3 CSAT Hexcam Woodland"
+},
+"vidya_Movies 🎥/ArmA3/Woodland NATO Camo.png": {
+"c": [
+"Games & movies",
+"ArmA 3",
+"NATO"
+],
+"n": "Woodland NATO Camo"
+},
+"vidya_Movies 🎥/Children of Men pattern by Dan/COMPAT 150ppi fullscale.png": {
+"c": [
+"Games & movies",
+"Children of Men",
+"COMPAT"
+],
+"n": "COMPAT 150ppi fullscale"
+},
+"vidya_Movies 🎥/Children of Men pattern by Dan/COMPAT Desert DPM 150ppi fullscale.png": {
+"c": [
+"Games & movies",
+"Children of Men",
+"COMPAT"
+],
+"n": "COMPAT Desert DPM 150ppi fullscale"
+},
+"vidya_Movies 🎥/Children of Men pattern by Dan/COMPAT OPFOR DPM 150ppi fullscale.png": {
+"c": [
+"Games & movies",
+"Children of Men",
+"COMPAT"
+],
+"n": "COMPAT OPFOR DPM 150ppi fullscale"
+},
+"vidya_Movies 🎥/Children of Men pattern by Dan/COMPAT Temperate DPM 150ppi fullscale.png": {
+"c": [
+"Games & movies",
+"Children of Men",
+"COMPAT"
+],
+"n": "COMPAT Temperate DPM 150ppi fullscale"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Alpine bright.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Alpine bright"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Alpine brighter.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Alpine brighter"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam AMS-Standard595 colors.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam AMS-Standard595 colors"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Arid bright.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Arid bright"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Arid brighter.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Arid brighter"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Arid darker.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Arid darker"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Black dark.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Black dark"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Black meh.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Black meh"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam brand guide colors.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam brand guide colors"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam tiled2.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam tiled2"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Tropic bright.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Tropic bright"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Tropic darker.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Tropic darker"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Urban Rubble bright.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Urban Rubble bright"
+},
+"commercial stuff/Crye Precision - MultiCam/BAD versions/MultiCam Woodland bright.png": {
+"c": [
+"Commercial",
+"Crye Precision",
+"MultiCam (colour variants)"
+],
+"n": "MultiCam Woodland bright"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Apex.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Apex"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Arid.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Arid"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Cadet.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Cadet"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Classic.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Classic"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Coyote.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Coyote"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Dark Urban.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Dark Urban"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Desert.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Desert"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Fall.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Fall"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Forest.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Forest"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Hardwood.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Hardwood"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Ice.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Ice"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Jungle.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Jungle"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Knight.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Knight"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Light Urban.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Light Urban"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Marcam.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Marcam"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Mountain.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Mountain"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Multiverse.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Multiverse"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Neutral.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Neutral"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Omni.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Omni"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Outback.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Outback"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Snow.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Snow"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Sprawl.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Sprawl"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Spring.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Spring"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Summer.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Summer"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Tundra.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Tundra"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Urban.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Urban"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Winter.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Winter"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Woodland.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Woodland"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT Zenith.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT Zenith"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Alpine.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Alpine"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Elite.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Elite"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Froto.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Froto"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Optima.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Optima"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Sage.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Sage"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Sahara.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Sahara"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Suburban.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Suburban"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Tarmac.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Tarmac"
+},
+"commercial stuff/Guy Cramer DMCA strike/CAMOPAT/Hyperstealth CAMOPAT+Plus Ultra.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"CAMOPAT"
+],
+"n": "Hyperstealth CAMOPAT+Plus Ultra"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Dune.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Dune"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Forest.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Forest"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Metro.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Metro"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Spain.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Spain"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Tropical.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Tropical"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Urban.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Urban"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 1 Woodland.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 1 Woodland"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Series 2 Canuck.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Series 2 Canuck"
+},
+"commercial stuff/Guy Cramer DMCA strike/SPEC4CE/Hyperstealth SPEC4CE Woodland.png": {
+"c": [
+"Commercial",
+"HyperStealth",
+"SPEC4CE"
+],
+"n": "Hyperstealth SPEC4CE Woodland"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/M1929/M1929 Telo Mimetico_1.png": {
+"c": [
+"Italy",
+"WWII",
+"M1929 Telo Mimetico"
+],
+"n": "M1929 Telo Mimetico 1"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/M1929/M1929 Telo Mimetico_2.png": {
+"c": [
+"Italy",
+"WWII",
+"M1929 Telo Mimetico"
+],
+"n": "M1929 Telo Mimetico 2"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/M1929/M1929 Telo Mimetico_3.png": {
+"c": [
+"Italy",
+"WWII",
+"M1929 Telo Mimetico"
+],
+"n": "M1929 Telo Mimetico 3"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/M1929/M1929 Telo Mimetico_4.png": {
+"c": [
+"Italy",
+"WWII",
+"M1929 Telo Mimetico"
+],
+"n": "M1929 Telo Mimetico 4"
+},
+"European Union🇪🇺 bullshit/Italy 🇮🇹 🍕/M1929/M1929 Telo Mimetico_5.png": {
+"c": [
+"Italy",
+"WWII",
+"M1929 Telo Mimetico"
+],
+"n": "M1929 Telo Mimetico 5"
+},
+"fictional_other/creator GOOBLIBLOO/Recursive/Recursive2 Classic.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Recursive2 Classic"
+},
+"fictional_other/creator GOOBLIBLOO/Recursive/Recursive2 Dune.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Recursive2 Dune"
+},
+"fictional_other/creator GOOBLIBLOO/Recursive/Recursive2 Neutral.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Recursive2 Neutral"
+},
+"fictional_other/creator GOOBLIBLOO/Recursive/Recursive2hyperwoodland.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Recursive2hyperwoodland"
+},
+"fictional_other/creator GOOBLIBLOO/Recursive/Recursive2sideways.png": {
+"c": [
+"Fictional & custom",
+"By creator",
+"GOOBLIBLOO"
+],
+"n": "Recursive2sideways"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Gorodskoi.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Gorodskoi"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Lesnoi.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Lesnoi"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Serebryanka.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Serebryanka"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Stepnoi.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Stepnoi"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Syriiskii.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Syriiskii"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Taiga.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Taiga"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU YaRusskiy.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU YaRusskiy"
+},
+"fictional_other/custom MultiCam/russian colors/Multi RU Zelenka.png": {
+"c": [
+"Fictional & custom",
+"Custom variants",
+"custom MultiCam"
+],
+"n": "Multi RU Zelenka"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/LEIBERMUSTER !!!/German Leibermuster 1945 v1.png": {
+"c": [
+"Germany",
+"WWII",
+"Leibermuster"
+],
+"n": "Leibermuster 1945 v1"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/LEIBERMUSTER !!!/German Leibermuster 1945 v2.png": {
+"c": [
+"Germany",
+"WWII",
+"Leibermuster"
+],
+"n": "Leibermuster 1945 v2"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/LEIBERMUSTER !!!/German Leibermuster 1955 Bundeswehr.png": {
+"c": [
+"Germany",
+"Bundeswehr",
+"Leibermuster"
+],
+"n": "Leibermuster 1955 Bundeswehr"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/PALMENMUSTER !!!!!/Palmenmuster autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Palmenmuster"
+],
+"n": "Palmenmuster autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/PALMENMUSTER !!!!!/Palmenmuster jungle.png": {
+"c": [
+"Germany",
+"WWII",
+"Palmenmuster"
+],
+"n": "Palmenmuster jungle"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/PALMENMUSTER !!!!!/Palmenmuster summer 2.png": {
+"c": [
+"Germany",
+"WWII",
+"Palmenmuster"
+],
+"n": "Palmenmuster summer 2"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/PALMENMUSTER !!!!!/Palmenmuster summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Palmenmuster"
+],
+"n": "Palmenmuster summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Splittermuster/german Splittermuster 45 tile.png": {
+"c": [
+"Germany",
+"WWII",
+"Splittermuster"
+],
+"n": "Splittermuster 45 tile"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Splittermuster/German splittermuster overprint.png": {
+"c": [
+"Germany",
+"WWII",
+"Splittermuster"
+],
+"n": "Splittermuster overprint"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Splittermuster/German splittermuster overprint2.png": {
+"c": [
+"Germany",
+"WWII",
+"Splittermuster"
+],
+"n": "Splittermuster overprint2"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Splittermuster/Splintermuster 31.png": {
+"c": [
+"Germany",
+"WWII",
+"Splittermuster"
+],
+"n": "Splintermuster 31"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Splittermuster/Splittermuster 41.png": {
+"c": [
+"Germany",
+"WWII",
+"Splittermuster"
+],
+"n": "Splittermuster 41"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Splittermuster/Splittermuster 45.png": {
+"c": [
+"Germany",
+"WWII",
+"Splittermuster"
+],
+"n": "Splittermuster 45"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/Eichenlaubmuster, autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "Eichenlaubmuster, autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/Eichenlaubmuster, summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "Eichenlaubmuster, summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german platanenmuster 7 old, autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "Platanenmuster 7 old, autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german platanenmuster 7 old, summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "Platanenmuster 7 old, summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS Eichenlaub autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS Eichenlaub autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS Eichenlaub summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS Eichenlaub summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS-44.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-44"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Beringt Eichenlaubmuster B, fall.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Beringt Eichenlaubmuster B, fall"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Beringt Eichenlaubmuster B, summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Beringt Eichenlaubmuster B, summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Beringt Eichenlaubmuster variant -fall.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Beringt Eichenlaubmuster variant -fall"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Beringt Eichenlaubmuster variant -summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Beringt Eichenlaubmuster variant -summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Eichenlaubmuster A fall.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Eichenlaubmuster A fall"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Eichenlaubmuster A summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Eichenlaubmuster A summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Eichenlaubmuster overprint base -fall.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Eichenlaubmuster overprint base -fall"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/German SS-Eichenlaubmuster overprint base -summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Eichenlaubmuster overprint base -summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS-rauchtarn -autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-rauchtarn -autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS-rauchtarn -summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-rauchtarn -summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS-Rauchtarn overprint.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Rauchtarn overprint"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/german SS-Rauchtarn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-Rauchtarn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/SS-44 Peadot.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-44 Peadot"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/SS-46 autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-46 autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/SS-46 Summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-46 Summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/SS-platanen pattern 7, autumn.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-platanen pattern 7, autumn"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/SS-platanen pattern 7, fall.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-platanen pattern 7, fall"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/SS/SS-platanen pattern 7, summer.png": {
+"c": [
+"Germany",
+"WWII",
+"Waffen-SS patterns"
+],
+"n": "SS-platanen pattern 7, summer"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Sumpfmuster/german bgs sumpf dark.png": {
+"c": [
+"Germany",
+"Bundesgrenzschutz",
+"Sumpfmuster"
+],
+"n": "Bgs sumpf dark"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Sumpfmuster/german bgs sumpf light.png": {
+"c": [
+"Germany",
+"Bundesgrenzschutz",
+"Sumpfmuster"
+],
+"n": "Bgs sumpf light"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Sumpfmuster/german sumpfmuster 43.png": {
+"c": [
+"Germany",
+"WWII",
+"Sumpfmuster"
+],
+"n": "Sumpfmuster 43"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Sumpfmuster/German Sumpfmuster 44.png": {
+"c": [
+"Germany",
+"WWII",
+"Sumpfmuster"
+],
+"n": "Sumpfmuster 44"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Sumpfmuster/Sumpfmuster 43.png": {
+"c": [
+"Germany",
+"WWII",
+"Sumpfmuster"
+],
+"n": "Sumpfmuster 43"
+},
+"Germany 🇩🇪/WW2 Nazi Germany/Sumpfmuster/Sumpfmuster 44.png": {
+"c": [
+"Germany",
+"WWII",
+"Sumpfmuster"
+],
+"n": "Sumpfmuster 44"
+}
+}
+}

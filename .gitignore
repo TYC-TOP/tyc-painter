@@ -1,0 +1,7 @@
+node_modules/
+dist/
+out/
+*.asar
+*.exe
+*.zip
+.DS_Store

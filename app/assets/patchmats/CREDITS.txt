@@ -1,0 +1,2 @@
+Material samples for the Patch Creator, cut from reference patches supplied by TYC WORKSHOP.
+Only plain material areas were used (nylon, IR film, velcro, twill, satin, merrow, woven fabric); no logos or lettering.

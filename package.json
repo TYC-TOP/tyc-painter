@@ -1,0 +1,9 @@
+{
+  "name": "tyc-painter",
+  "productName": "TYC Painter",
+  "version": "1.0.0-preview.2",
+  "description": "TYC Painter — retexturing tool for Roblox MilSim models",
+  "main": "main.js",
+  "author": "Alejandro Vázquez",
+  "license": "UNLICENSED"
+}

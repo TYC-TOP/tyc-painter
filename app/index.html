@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://cdn.polyhaven.com https://acg-media.struffelproductions.com https://ambientcg.com; worker-src 'self' blob:; connect-src 'self' blob: data:">
+<title>TYC Painter</title>
+<link rel="stylesheet" href="style.css">
+<script type="importmap">
+{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}
+</script>
+<script src="vendor/jszip.min.js"></script>
+</head>
+<body>
+<div id="workspaceBar"><strong>TYC PAINTER</strong><div id="workmenus"></div><span id="workspaceModel"></span><button id="focusView">Focus · Tab</button><small>1.0 preview</small></div><div id="app">
+<!-- ============================== LEFT: texture sets, tools, project -->
+<aside class="left">
+  <header>
+    <div class="hrow">
+      <h1 data-i18n="app.title"></h1>
+      <div class="seg" id="lang"><button data-l="en">EN</button><button data-l="es">ES</button></div>
+    </div>
+    <p><span id="modelName"></span> <span class="mono ver">v1.0</span></p>
+  </header>
+
+  <section id="secModel">
+    <h2 data-i18n="model.title"></h2>
+    <div class="btns"><button class="primary" id="modelOpen" data-i18n="model.open"></button><button id="modelHelmet" data-i18n="model.helmet"></button></div>
+    <p class="hint" data-i18n="model.hint"></p>
+  </section>
+
+  <section>
+    <h2 data-i18n="sets.title"></h2>
+    <ul id="parts"></ul>
+    <div class="btns" style="margin-top:8px">
+      <button id="isolate" data-i18n="sets.isolate"></button>
+      <button id="showall" data-i18n="sets.showall"></button>
+    </div>
+    <div class="row" style="margin-top:8px"><label data-i18n="sets.res"></label>
+      <select id="res"><option value="256">256 × 256</option><option value="512">512 × 512</option><option value="1024">1024 × 1024</option><option value="2048">2048 × 2048</option><option value="4096">4096 × 4096 (4K)</option></select>
+    </div>
+    <p class="hint" data-i18n="sets.resHint"></p>
+  </section>
+
+  <section>
+    <h2 data-i18n="tools.title"></h2>
+    <div class="tools" id="tools">
+      <button data-tool="orbit" data-i18n-title="tool.orbit.tip"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><ellipse cx="12" cy="12" rx="8" ry="3"/></svg><span data-i18n="tool.orbit"></span></button>
+      <button data-tool="paint" data-i18n-title="tool.paint.tip"><svg viewBox="0 0 24 24"><path d="M14 4l6 6-9 9H5v-6z"/><path d="M12 6l6 6"/></svg><span data-i18n="tool.paint"></span></button>
+      <button data-tool="erase" data-i18n-title="tool.erase.tip"><svg viewBox="0 0 24 24"><path d="M4 16l9-10 7 6-7 8H8z"/><path d="M9 20h11"/></svg><span data-i18n="tool.erase"></span></button>
+      <button data-tool="fill" data-i18n-title="tool.fill.tip"><svg viewBox="0 0 24 24"><path d="M4 13l8-8 7 7-8 8z"/><path d="M20 15s2 2.5 2 4a2 2 0 0 1-4 0c0-1.5 2-4 2-4z"/></svg><span data-i18n="tool.fill"></span></button>
+      <button data-tool="pick" data-i18n-title="tool.pick.tip"><svg viewBox="0 0 24 24"><path d="M14 6l4 4-9 9H5v-4z"/><path d="M16 4l4 4"/></svg><span data-i18n="tool.pick"></span></button>
+      <button data-tool="wand" data-i18n-title="tool.wand.tip"><svg viewBox="0 0 24 24"><path d="M4 20L15 9"/><path d="M17 3v4M15 5h4M20 10v2M19 11h2M10 3v2M9 4h2"/></svg><span data-i18n="tool.wand"></span></button>
+      <button data-tool="decal" data-i18n-title="tool.decal.tip"><svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="2"/><path d="M4 15l5-4 4 3 3-2 4 3"/><circle cx="9" cy="9" r="1.3"/></svg><span data-i18n="tool.decal"></span></button>
+    </div>
+    <p class="hint" id="toolhint"></p>
+
+    <div id="optBrush"><div class="row"><label>Alpha</label><select id="brushAlpha"><option value="round">Round</option><option value="scratch">Scratch</option><option value="speckle">Speckle</option><option value="stitch">Stitch</option><option value="custom">Custom</option></select><button id="alphaLoad">+</button></div><div class="row"><label>Angle</label><input id="alphaAngle" type="range" min="0" max="360" value="0"><label class="check"><input id="penPressure" type="checkbox" checked>Pen</label></div>
+      <div id="surfaceBrush" hidden><div class="row"><label for="brushR">Roughness</label><input id="brushR" type="range" min="0" max="255" value="200"></div>
+<div class="row"><label for="brushM">Metalness</label><input id="brushM" type="range" min="0" max="255" value="0"></div>
+<div class="row"><label for="brushH">Height ±</label><input id="brushH" type="range" min="-127" max="127" value="0"></div></div>
+<div class="row" id="colorBrush"><label data-i18n="brush.color"></label><input type="color" id="bColor" value="#c2a878"><span class="mono small" id="bHex">#c2a878</span></div>
+      <div class="row"><label data-i18n="brush.size"></label><input type="range" id="bSize" min="2" max="300" value="40"><span class="val" id="bSizeV"></span></div>
+      <div class="row"><label data-i18n="brush.hard"></label><input type="range" id="bHard" min="0" max="100" value="60"><span class="val" id="bHardV"></span></div>
+      <div class="row"><label data-i18n="brush.flow"></label><input type="range" id="bFlow" min="1" max="100" value="45"><span class="val" id="bFlowV"></span></div>
+      <div class="row"><label data-i18n="brush.spacing"></label><input type="range" id="bSpace" min="5" max="100" value="20"><span class="val" id="bSpaceV"></span></div>
+      <div class="row"><label data-i18n="brush.target"></label><div class="seg" id="bTarget" style="flex:1"><button data-v="content" data-i18n="brush.target.layer"></button><button data-v="mask" data-i18n="brush.target.mask"></button></div></div>
+      <div class="row" id="bMaskRow"><label data-i18n="brush.maskval"></label><div class="seg" id="bMaskVal" style="flex:1"><button data-v="1" data-i18n="brush.white"></button><button data-v="0" data-i18n="brush.black"></button></div></div>
+      <div class="row"><label data-i18n="brush.sym"></label><select id="bSym"><option value="" data-i18n="brush.sym.off"></option><option value="0">X</option><option value="1">Y</option><option value="2">Z</option></select></div>
+      <label class="check"><input type="checkbox" id="lock" checked> <span data-i18n="brush.lock"></span></label>
+    </div>
+    <div id="optFill" hidden>
+      <div class="row"><label data-i18n="fill.mode"></label><select id="fMode"><option value="island" data-i18n="fill.island"></option><option value="part" data-i18n="fill.part"></option><option value="tri" data-i18n="fill.tri"></option></select></div>
+      <p class="hint" data-i18n="fill.hint"></p>
+    </div>
+    <div id="optWand" hidden>
+      <div class="row"><label data-i18n="wand.src"></label><select id="wSrc"><option value="orig" data-i18n="wand.src.orig"></option><option value="out" data-i18n="wand.src.out"></option></select></div>
+      <div class="row"><label data-i18n="wand.match"></label><select id="wMatch"><option value="pattern" data-i18n="wand.match.pattern"></option><option value="colour" data-i18n="wand.match.colour"></option></select></div>
+      <div class="row"><label data-i18n="wand.tol"></label><input type="range" id="wTol" min="1" max="100" value="18"><span class="val" id="wTolV"></span></div>
+      <label class="check"><input type="checkbox" id="wCont" checked> <span data-i18n="wand.cont"></span></label>
+      <div class="btns"><button id="selAll" data-i18n="wand.all"></button><button id="selInv" data-i18n="wand.inv"></button><button id="selNone" data-i18n="wand.none"></button></div>
+      <p class="hint" data-i18n="wand.hint"></p>
+    </div>
+    <div id="optDecal" hidden>
+      <div class="btns"><button id="decalLoad" data-i18n="decal.load"></button></div>
+      <div class="row"><label data-i18n="decal.size"></label><input type="range" id="dSize" min="2" max="80" value="18"><span class="val" id="dSizeV"></span></div>
+      <div class="row"><label data-i18n="decal.rot"></label><input type="range" id="dRot" min="-180" max="180" value="0"><span class="val" id="dRotV"></span></div>
+      <div class="row"><label data-i18n="decal.opacity"></label><input type="range" id="dOp" min="5" max="100" value="100"><span class="val" id="dOpV"></span></div>
+      <button id="decalEditable" type="button">Add editable UV decal</button><p class="hint" id="decalName" data-i18n="decal.none"></p>
+    </div>
+  </section>
+
+  <section>
+    <h2 data-i18n="hist.title"></h2>
+    <div class="btns"><button id="undo" data-i18n="hist.undo"></button><button id="redo" data-i18n="hist.redo"></button></div>
+    <div class="btns" style="margin-top:6px"><button id="resetPart" data-i18n="hist.reset"></button></div>
+  </section>
+
+  <section><details><summary>Display Settings</summary><div class="row"><label for="displayExposure">Exposure</label><input id="displayExposure" type="range" min="0.25" max="3" step="0.05" value="1.05"></div><div class="row"><label for="displayEnvironment">Environment</label><input id="displayEnvironment" type="range" min="0" max="3" step="0.05" value="1"></div><div class="row"><label for="displayRotation">Rotation</label><input id="displayRotation" type="range" min="-180" max="180" step="1" value="0"></div></details><details id="opticalSet"><summary>Optical shader · texture set</summary><div class="row"><label for="opt-transmission">Transmission</label><input id="opt-transmission" type="range" min="0" max="1" step="0.01" value="0"></div><div class="row"><label for="opt-ior">Ior</label><input id="opt-ior" type="range" min="1" max="2.33" step="0.01" value="1.5"></div><div class="row"><label for="opt-clearcoat">Clearcoat</label><input id="opt-clearcoat" type="range" min="0" max="1" step="0.01" value="0"></div><div class="row"><label for="opt-iridescence">Iridescence</label><input id="opt-iridescence" type="range" min="0" max="1" step="0.01" value="0"></div></details></section><section id="secPatch">
+    <h2 data-i18n="pc.title"></h2>
+    <div class="btns"><button class="primary" id="patchOpen" data-i18n="pc.open"></button></div>
+    <p class="hint" data-i18n="pc.hint"></p>
+  </section>
+
+  <section>
+    <h2 data-i18n="proj.title"></h2>
+    <div class="btns"><button id="projOpen" data-i18n="proj.open"></button><button id="projSave" data-i18n="proj.save"></button></div>
+    <p class="hint" data-i18n="proj.hint"></p>
+  </section>
+
+  <section>
+    <h2 data-i18n="exp.title"></h2>
+    <div class="btns">
+      <button class="primary" id="expOne" data-i18n="exp.part"></button>
+      <button id="expAll" data-i18n="exp.all"></button>
+    </div>
+    <div class="btns" style="margin-top:6px">
+      <button id="expObjOne" data-i18n="exp.objPart"></button>
+      <button id="expObjAll" data-i18n="exp.objAll"></button>
+    </div>
+    <p class="hint" data-i18n="exp.hint"></p>
+  </section>
+</aside>
+
+<!-- ============================== CENTER: viewport, UV editor, asset shelf -->
+<main id="main">
+  <div id="views">
+    <div class="pane" id="viewpane">
+      <canvas id="view"></canvas>
+      <div class="overlay" style="top:10px;left:10px;right:10px">
+        <div class="chip" id="selname"></div>
+        <span style="flex:1"></span>
+        <select id="viewMode" class="chipsel" data-i18n-title="view.tip">
+          <option value="material" data-i18n="view.material"></option><option value="color" data-i18n="view.color"></option><option value="rough" data-i18n="view.rough"></option>
+          <option value="metal" data-i18n="view.metal"></option><option value="normal" data-i18n="view.normal"></option><option value="height" data-i18n="view.height"></option><option value="mask" data-i18n="view.mask"></option>
+        </select>
+        <label class="chip lightctl" data-i18n-title="view.light.tip"><span data-i18n="view.light"></span><input type="range" id="lightRot" min="0" max="360" value="35"></label>
+        <button id="cmp" data-i18n="view.cmp" data-i18n-title="view.cmp.tip"></button>
+        <button id="uvBtn" data-i18n="view.uv"></button>
+        <button id="frame" data-i18n="view.frame"></button>
+      </div>
+      <div class="chip" id="status"></div>
+    </div>
+    <div class="pane" id="uvpane">
+      <canvas id="uvc"></canvas>
+      <div class="overlay" id="uvbar">
+        <div class="seg" id="uvMode"><button data-m="paint" title="Paint / erase in UV space">Brush</button><button data-m="move" class="on" title="G" data-i18n="uv.move"></button><button data-m="rotate" title="R" data-i18n="uv.rotate"></button><button data-m="scale" title="S" data-i18n="uv.scale"></button></div>
+        <button id="uvR90">⟳ 90°</button>
+        <button id="uvFH">⇋</button>
+        <button id="uvFV">⇵</button>
+        <div class="seg" id="uvPick"><button data-p="island" class="on" title="1" data-i18n="uv.pick.island"></button><button data-p="face" title="2" data-i18n="uv.pick.face"></button></div>
+        <button id="uvLinked" title="L" data-i18n="uv.linked"></button>
+        <button id="uvAll" data-i18n="uv.all"></button>
+        <button id="uvFit" data-i18n="uv.fit"></button>
+        <label class="check chip" style="margin:0;padding:5px 8px"><input type="checkbox" id="uvCarry" checked> <span data-i18n="uv.carry"></span></label>
+      </div>
+      <div class="chip" id="uvinfo"></div>
+    </div>
+    <div id="toast"></div>
+  </div>
+
+  <div id="shelf">
+    <div class="tabs" id="libTabs">
+      <button data-t="base" class="on" data-i18n="lib.base"></button>
+      <button data-t="smart" data-i18n="lib.smart"></button>
+      <button data-t="camo" data-i18n="lib.camo"></button>
+      <button data-t="ph">Poly Haven</button>
+      <button data-t="mine" data-i18n="lib.mine"></button>
+      <span style="flex:1"></span>
+      <input type="search" id="assetSearch" placeholder="Search assets"><span class="armed" id="armed" hidden data-i18n="lib.armed"></span>
+    </div>
+    <div class="shelfbody" id="lib-base">
+      <div class="grid" id="gridBase"></div>
+    </div>
+    <div class="shelfbody" id="lib-smart" hidden>
+      <div class="grid wide" id="gridSmart"></div>
+    </div>
+    <div class="shelfbody" id="lib-camo" hidden>
+      <div id="camoEmpty">
+        <p class="hint" style="margin-top:0" data-i18n="camo.empty"></p>
+        <div class="btns" style="max-width:260px"><button class="primary" id="camoPick" data-i18n="camo.pick"></button></div>
+        <p class="credit" id="camoMsg"></p>
+      </div>
+      <div id="camoBrowser" hidden>
+        <div class="shelfbar">
+          <div id="crumbs"></div>
+          <span style="flex:1"></span>
+          <input type="search" id="camoSearch" data-i18n-ph="camo.search">
+          <button id="camoChange" data-i18n="camo.change"></button>
+        </div>
+        <div class="grid" id="gridCamoPack"></div>
+        <p class="credit" id="camoCount"></p>
+      </div>
+    </div>
+    <div class="shelfbody" id="lib-ph" hidden>
+      <div class="shelfbar">
+        <input type="search" id="phSearch" data-i18n-ph="ph.search">
+        <select id="phCat" style="max-width:220px"><option value="" data-i18n="ph.allcats"></option></select>
+        <span class="credit" id="phMsg" style="margin:0"></span>
+        <span style="flex:1"></span>
+        <span class="credit" style="margin:0"><span data-i18n="ph.credit"></span> <a href="#" id="phLink">Poly Haven</a></span>
+      </div>
+      <div class="grid" id="gridPH"></div>
+      <div class="btns" style="margin-top:8px;max-width:200px"><button id="phMore" hidden data-i18n="ph.more"></button></div>
+    </div>
+    <div class="shelfbody" id="lib-mine" hidden>
+      <div class="shelfbar"><button id="importMat" data-i18n="mine.import"></button><span class="hint" style="margin:0" data-i18n="mine.hint"></span></div>
+      <div class="grid" id="gridMine"></div>
+    </div>
+  </div>
+</main>
+
+<!-- ============================== RIGHT: layer stack and properties -->
+<aside class="right"><div id="textureDock"></div>
+  <div class="panel" id="layersPanel">
+    <div class="ptitle">
+      <h2 data-i18n="layers.title"></h2>
+      <span style="flex:1"></span>
+      <button class="ic" id="dupLayer" data-i18n-title="layers.dup"><svg viewBox="0 0 24 24"><rect x="8" y="8" width="11" height="11" rx="2"/><path d="M5 15V6a1 1 0 0 1 1-1h9"/></svg></button>
+      <button class="ic" id="upLayer" data-i18n-title="layers.up"><svg viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6"/></svg></button>
+      <button class="ic" id="downLayer" data-i18n-title="layers.down"><svg viewBox="0 0 24 24"><path d="M12 5v14M6 13l6 6 6-6"/></svg></button>
+      <button class="ic" id="delLayer" data-i18n-title="layers.del"><svg viewBox="0 0 24 24"><path d="M5 7h14M10 7V5h4v2M7 7l1 12h8l1-12"/></svg></button>
+    </div>
+    <div class="btns addrow">
+      <button id="addFill" data-i18n="layers.addFill" data-i18n-title="layers.addFill.tip"></button>
+      <button id="addGroup" title="Group selected layer">+ Group</button><button id="addSeam" title="Create editable stitch path">+ Stitch</button><button id="addSurface" title="Paint roughness, metalness and height per texel">+ PBR</button><button id="addPaint" data-i18n="layers.addPaint" data-i18n-title="layers.addPaint.tip"></button>
+      <button id="addAdjust" data-i18n="layers.addAdjust" data-i18n-title="layers.addAdjust.tip"></button>
+    </div>
+    <ul id="layers"></ul>
+    <div class="row"><label data-i18n="layers.blend"></label>
+      <select id="lBlend">
+        <option value="normal" data-i18n="blend.normal"></option><option value="multiply" data-i18n="blend.multiply"></option><option value="detail" data-i18n="blend.detail"></option>
+        <option value="screen" data-i18n="blend.screen"></option><option value="overlay" data-i18n="blend.overlay"></option><option value="add" data-i18n="blend.add"></option>
+        <option value="darken" data-i18n="blend.darken"></option><option value="lighten" data-i18n="blend.lighten"></option><option value="color" data-i18n="blend.color"></option><option value="luminosity" data-i18n="blend.luminosity"></option>
+      </select></div>
+    <div class="row"><label data-i18n="layers.opacity"></label><input type="range" id="lOpacity" min="0" max="100" value="100"><span class="val" id="lOpacityV"></span></div>
+  </div>
+
+  <div class="panel grow" id="props">
+    <div class="ptitle"><h2 data-i18n="props.title"></h2><span class="pname" id="propName"></span></div>
+    <section id="decalProps" hidden><div class="row"><label for="decalU">Horizontal</label><input type="range" id="decalU" min="0" max="1" step=".001"></div><div class="row"><label for="decalV">Vertical</label><input type="range" id="decalV" min="0" max="1" step=".001"></div><div class="row"><label for="decalWidth">Scale</label><input type="range" id="decalWidth" min=".005" max="2" step=".005"></div><div class="row"><label for="decalAngle">Angle</label><input type="range" id="decalAngle" min="-180" max="180" step="1"></div><div class="row"><label for="decalDepth">Relief</label><input type="range" id="decalDepth" min="-2" max="2" step=".01"></div><div class="row"><label for="decalRough">Roughness</label><input type="range" id="decalRough" min="0" max="1" step=".01"></div></section><section id="seamProps" hidden><div class="btns"><button id="seamEdit">Edit UV path</button><button id="seamPop">Remove last point</button></div><p>UV points · <output id="seamNodes"></output></p>
+<div class="row"><label for="seamWidth">Thread width</label><input id="seamWidth" type="range" min="1" max="20" step=".5"></div>
+<div class="row"><label for="seamPitch">Stitch pitch</label><input id="seamPitch" type="range" min="3" max="80"></div>
+<div class="row"><label for="seamColor">Thread</label><input id="seamColor" type="color"></div>
+<div class="row"><label for="seamHeight">Height</label><input id="seamHeight" type="range" min="0" max="2" step=".01"></div>
+<div class="row"><label for="seamRough">Roughness</label><input id="seamRough" type="range" min="0" max="1" step=".01"></div></section>
+<p class="hint" id="pNone" data-i18n="props.none"></p>
+    <p class="hint" id="pBase" hidden data-i18n="props.base"></p>
+    <p class="hint" id="pShade" hidden data-i18n="props.shade"></p>
+    <p class="hint" id="pOrig" hidden data-i18n="props.orig"></p>
+
+    <div id="pFill" hidden>
+      <h3 data-i18n="fillp.title"></h3>
+      <div class="row"><label data-i18n="fillp.proj"></label><select id="fProj"><option value="uv" data-i18n="fillp.proj.uv"></option><option value="tri" data-i18n="fillp.proj.tri"></option></select></div>
+      <div class="row"><label data-i18n="fillp.filter"></label><select id="fFilter"><option value="bilinear" data-i18n="fillp.filter.bi"></option><option value="nearest" data-i18n="fillp.filter.near"></option></select></div>
+      <div class="row"><label data-i18n="fillp.wrap"></label><select id="fWrap"><option value="repeat" data-i18n="fillp.wrap.repeat"></option><option value="mirror" data-i18n="fillp.wrap.mirror"></option><option value="none" data-i18n="fillp.wrap.none"></option></select></div>
+      <h4 data-i18n="fillp.uvx"></h4>
+      <div class="row"><label data-i18n="fillp.tiling"></label><input type="range" id="fTiling" min="-150" max="350" value="100"><input type="number" id="fTilingN" min="0.05" max="128" step="0.05" class="num"></div>
+      <label class="check" id="fRealRow"><input type="checkbox" id="fReal"> <span data-i18n="fillp.real"></span></label>
+      <div class="row"><label data-i18n="fillp.sx"></label><input type="range" id="fSx" min="-300" max="300" value="0"><span class="val" id="fSxV"></span></div>
+      <div class="row"><label data-i18n="fillp.sy"></label><input type="range" id="fSy" min="-300" max="300" value="0"><span class="val" id="fSyV"></span></div>
+      <div class="row"><label class="check" style="flex:1;margin:0"><input type="checkbox" id="fSLink"> <span data-i18n="fillp.slink"></span></label><button id="fSReset" data-i18n="fillp.sreset" style="flex:0 0 auto;padding:4px 10px"></button></div>
+      <div class="row"><label data-i18n="fillp.rot"></label><input type="range" id="fRot" min="-180" max="180" value="0"><span class="val" id="fRotV"></span></div>
+      <div class="row"><label data-i18n="fillp.offset"></label><input type="range" id="fOffX" min="0" max="100" value="0"><input type="range" id="fOffY" min="0" max="100" value="0"></div>
+    </div>
+
+    <div id="pMat" hidden>
+      <h3 data-i18n="mat.title"></h3>
+      <div class="chans" id="chans">
+        <button data-c="color">color</button><button data-c="metal">metal</button><button data-c="rough">rough</button><button data-c="height">height</button><span class="nrm" data-i18n-title="mat.nrm.tip">nrm</span>
+      </div>
+      <div class="matslot" id="matSlot">
+        <i class="sw" id="matSw"></i>
+        <div><b id="matName"></b><small data-i18n="mat.mode"></small></div>
+        <button id="matReplace" data-i18n="mat.replace" data-i18n-title="mat.replace.tip"></button>
+      </div>
+      <div class="row" id="matColorRow"><label data-i18n="mat.basecolor"></label><input type="color" id="mColor" value="#7c6447"><span class="mono small" id="mColorHex"></span></div>
+      <div id="matCamo" hidden>
+        <div class="row"><label data-i18n="mat.palette"></label><select id="cPreset"></select></div>
+        <div class="row"><label data-i18n="mat.colors"></label><div class="palette"><input type="color" id="c0"><input type="color" id="c1"><input type="color" id="c2"><input type="color" id="c3"></div></div>
+        <div class="row"><label data-i18n="mat.variation"></label><button id="cSeed" style="flex:1" data-i18n="mat.newseed"></button></div>
+      </div>
+      <div class="row" id="rowRough"><label data-i18n="mat.rough"></label><input type="range" id="mRough" min="0" max="100" value="80"><span class="val" id="mRoughV"></span></div>
+      <div class="row" id="rowMetal"><label data-i18n="mat.metal"></label><input type="range" id="mMetal" min="0" max="100" value="0"><span class="val" id="mMetalV"></span></div>
+      <div class="row" id="rowHeight"><label data-i18n="mat.height"></label><input type="range" id="mHeight" min="-100" max="100" value="30"><span class="val" id="mHeightV"></span></div>
+    </div>
+
+    <div id="pAdj" hidden>
+      <h3 data-i18n="adj.title"></h3>
+      <label class="check" id="aMatchRow"><input type="checkbox" id="aMatch"> <span data-i18n="adj.match"></span></label>
+      <div class="row"><label data-i18n="adj.con"></label><input type="range" id="aCon" min="-50" max="60" value="0"><span class="val" id="aConV"></span></div>
+      <div class="row"><label data-i18n="adj.sat"></label><input type="range" id="aSat" min="-100" max="80" value="0"><span class="val" id="aSatV"></span></div>
+      <div class="row"><label data-i18n="adj.bri"></label><input type="range" id="aBri" min="-50" max="50" value="0"><span class="val" id="aBriV"></span></div>
+      <div class="row" id="aHueRow"><label data-i18n="adj.hue"></label><input type="range" id="aHue" min="-180" max="180" value="0"><span class="val" id="aHueV"></span></div>
+    </div>
+
+    <div id="pMask" hidden>
+      <h3 data-i18n="mask.title"></h3>
+      <div class="row"><label data-i18n="mask.gen"></label>
+        <select id="mGen">
+          <option value="" data-i18n="mask.gen.none"></option><option value="white" data-i18n="mask.gen.white"></option><option value="black" data-i18n="mask.gen.black"></option>
+          <option value="sel" data-i18n="mask.gen.sel"></option><option value="dirt" data-i18n="mask.gen.dirt"></option><option value="edges" data-i18n="mask.gen.edges"></option>
+          <option value="cavity" data-i18n="mask.gen.cavity"></option><option value="noise" data-i18n="mask.gen.noise"></option><option value="dustUp" data-i18n="mask.gen.dustUp"></option><option value="gradient" data-i18n="mask.gen.gradient"></option>
+          <option value="zone" data-i18n="mask.gen.zone"></option><option value="islands" data-i18n="mask.gen.islands"></option>
+        </select></div>
+      <div id="mGenParams">
+        <div class="row"><label data-i18n="mask.level"></label><input type="range" id="gLevel" min="0" max="100" value="50"><span class="val" id="gLevelV"></span></div>
+        <div class="row"><label data-i18n="mask.contrast"></label><input type="range" id="gCon" min="0" max="100" value="50"><span class="val" id="gConV"></span></div>
+        <div class="row"><label data-i18n="mask.scale"></label><input type="range" id="gScale" min="10" max="800" value="100"><span class="val" id="gScaleV"></span></div>
+        <div class="row"><label data-i18n="mask.seed"></label><button id="gSeed" style="flex:1" data-i18n="mat.newseed"></button></div>
+      </div>
+      <div class="btns"><button id="mInvert" data-i18n="mask.invert"></button><button id="mRemove" data-i18n="mask.remove"></button></div>
+      <p class="hint" data-i18n="mask.hint"></p>
+    </div>
+  </div>
+</aside>
+</div>
+<div id="patchStudio" hidden tabindex="-1">
+  <div class="pcSide">
+    <div class="pcHead"><h2 data-i18n="pc.title"></h2><button id="pcClose" data-i18n-title="pc.close">✕</button></div>
+    <div class="pcScroll">
+      <div class="row"><label data-i18n="pc.mode"></label><div class="seg" id="pcMode" style="flex:1"><button data-v="auto" data-i18n="pc.auto"></button><button data-v="manual" data-i18n="pc.manual"></button></div></div>
+      <h3 data-i18n="pc.type"></h3>
+      <div class="pcCards" id="pcType"><button data-v="callsign"><b data-i18n="pc.t.callsign"></b><small data-i18n="pc.t.callsign.d"></small></button><button data-v="embroidered"><b data-i18n="pc.t.embroidered"></b><small data-i18n="pc.t.embroidered.d"></small></button><button data-v="pvc"><b data-i18n="pc.t.pvc"></b><small data-i18n="pc.t.pvc.d"></small></button><button data-v="lasercut"><b data-i18n="pc.t.lasercut"></b><small data-i18n="pc.t.lasercut.d"></small></button></div>
+      <h3 data-i18n="pc.shape"></h3>
+      <div class="seg pcShapes" id="pcShape"><button data-v="rect" data-i18n-title="pc.s.rect"><svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="10" rx="1"/></svg></button><button data-v="round" data-i18n-title="pc.s.round"><svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="10" rx="4"/></svg></button><button data-v="circle" data-i18n-title="pc.s.circle"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/></svg></button><button data-v="oval" data-i18n-title="pc.s.oval"><svg viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="9" ry="6"/></svg></button><button data-v="shield" data-i18n-title="pc.s.shield"><svg viewBox="0 0 24 24"><path d="M5 4h14v7c0 5-7 9-7 9s-7-4-7-9z"/></svg></button><button data-v="custom" data-i18n-title="pc.s.custom"><svg viewBox="0 0 24 24"><path d="M4 8c2-5 7-3 9-5 1 3 7 2 7 7s-3 4-2 8c-4 2-6-1-9 2-3-2-6-2-5-6s-1-3 0-6z" stroke-dasharray="2.2 1.6"/></svg></button></div>
+      <p class="hint" id="pcCustomHint" hidden data-i18n="pc.custom.hint"></p>
+      <h3 data-i18n="pc.content"></h3>
+      <div class="seg" id="pcContent"><button data-v="text" data-i18n="pc.c.text"></button><button data-v="image" data-i18n="pc.c.image"></button></div>
+      <div id="pcTextBox">
+        <textarea id="pcText" rows="2" spellcheck="false"></textarea>
+        <p class="hint" data-i18n="pc.text.hint"></p>
+        <h4 data-i18n="pc.font"></h4>
+        <div class="pcFonts" id="pcFonts"></div>
+      </div>
+      <div id="pcImgBox" hidden>
+        <div class="btns"><button id="pcImgBtn" data-i18n="pc.img.load"></button></div>
+        <p class="hint" id="pcImgName"></p>
+        <div class="row" id="pcFitRow"><label data-i18n="pc.fit"></label><div class="seg" id="pcFit" style="flex:1"><button data-v="contain" data-i18n="pc.fit.contain" data-i18n-title="pc.fit.contain.tip"></button><button data-v="fill" data-i18n="pc.fit.fill" data-i18n-title="pc.fit.fill.tip"></button><button data-v="stretch" data-i18n="pc.fit.stretch" data-i18n-title="pc.fit.stretch.tip"></button></div></div>
+        <label class="check" id="pcMonoRow"><input type="checkbox" id="pcMono"> <span data-i18n="pc.img.mono"></span></label>
+        <label class="check"><input type="checkbox" id="pcInvert"> <span data-i18n="pc.img.invert"></span></label>
+        <label class="check" id="pc3dRow"><input type="checkbox" id="pc3d"> <span data-i18n="pc.img.3d"></span></label>
+        <label class="check"><input type="checkbox" id="pcKnock"> <span data-i18n="pc.img.knock"></span></label>
+        <input type="file" id="pcFile" accept="image/png,image/jpeg,image/webp" hidden>
+      </div>
+      <h3 data-i18n="pc.colors"></h3>
+      <div class="row"><label data-i18n="pc.col.bg"></label><input type="color" id="pcBg"></div>
+      <div class="row"><label data-i18n="pc.col.fg"></label><input type="color" id="pcFg"></div>
+      <div class="row" id="pcEdRow"><label id="pcEdLabel"></label><input type="color" id="pcEd"></div>
+      <div class="pcSw" id="pcSwatches"></div>
+      <p class="hint" data-i18n="pc.sw.hint"></p>
+      <h3 data-i18n="pc.mats"></h3>
+      <div class="seg" id="pcZone"><button data-v="bg" data-i18n="pc.z.bg"></button><button data-v="art" data-i18n="pc.z.art"></button><button data-v="edge" data-i18n="pc.z.edge"></button><button data-v="back" data-i18n="pc.z.back"></button></div>
+      <div class="pcZoneBox"><i id="pcZoneThumb"></i><div><b id="pcZoneName"></b><small id="pcZoneSrc"></small></div></div>
+      <div id="pcZoneOpts">
+        <label class="check"><input type="checkbox" id="pcZoneOwn"> <span data-i18n="pc.z.own"></span></label>
+        <div class="row"><label data-i18n="pc.z.scale"></label><input type="range" id="pcZScale" min="-300" max="300" step="5"><span class="val" id="pcZScaleO"></span></div>
+        <div class="row"><label data-i18n="pc.z.rot"></label><input type="range" id="pcZRot" min="-180" max="180" step="5"><span class="val" id="pcZRotO"></span></div>
+      </div>
+      <div class="btns"><button id="pcZoneProc" data-i18n="pc.z.proc"></button><button id="pcZoneReset" data-i18n="pc.z.reset"></button></div>
+      <p class="hint" data-i18n="pc.z.hint"></p>
+      <label class="check" id="pcIRRow"><input type="checkbox" id="pcIR"> <span data-i18n="pc.ir"></span></label>
+      <label class="check" id="pcStitchRow"><input type="checkbox" id="pcStitch"> <span data-i18n="pc.stitch"></span></label>
+      <div id="pcManual" hidden>
+        <h3 data-i18n="pc.manualT"></h3>
+        <div class="row"><label data-i18n="pc.m.w"></label><input type="range" id="pcW"><span class="val" id="pcWO"></span></div>
+        <div class="row"><label data-i18n="pc.m.h"></label><input type="range" id="pcH"><span class="val" id="pcHO"></span></div>
+        <div class="row"><label data-i18n="pc.m.t"></label><input type="range" id="pcT"><span class="val" id="pcTO"></span></div>
+        <div class="row"><label data-i18n="pc.m.edge"></label><input type="range" id="pcEdge"><span class="val" id="pcEdgeO"></span></div>
+        <div class="row"><label data-i18n="pc.m.border"></label><input type="range" id="pcBorder"><span class="val" id="pcBorderO"></span></div>
+        <div class="row"><label data-i18n="pc.m.textH"></label><input type="range" id="pcTextH"><span class="val" id="pcTextHO"></span></div>
+        <div class="row"><label data-i18n="pc.m.spacing"></label><input type="range" id="pcSpacing"><span class="val" id="pcSpacingO"></span></div>
+        <div class="row"><label data-i18n="pc.m.textY"></label><input type="range" id="pcTextY"><span class="val" id="pcTextYO"></span></div>
+        <div class="row"><label data-i18n="pc.m.depth"></label><input type="range" id="pcDepth"><span class="val" id="pcDepthO"></span></div>
+        <div class="row"><label data-i18n="pc.m.relief"></label><input type="range" id="pcRelief"><span class="val" id="pcReliefO"></span></div>
+        <div class="row"><label data-i18n="pc.m.roughBg"></label><input type="range" id="pcRoughBg"><span class="val" id="pcRoughBgO"></span></div>
+        <div class="row"><label data-i18n="pc.m.roughFg"></label><input type="range" id="pcRoughFg"><span class="val" id="pcRoughFgO"></span></div>
+        <div class="row"><label data-i18n="pc.m.weave"></label><input type="range" id="pcWeave"><span class="val" id="pcWeaveO"></span></div>
+        <div class="row"><label for="pcSeedValue" data-i18n="pc.seed.value"></label><input id="pcSeedValue" type="number" min="0" max="2147483647" step="1"></div>
+        <div class="btns"><button id="pcSeed" data-i18n="pc.seed"></button><button id="pcReset" data-i18n="pc.reset"></button></div>
+      </div>
+    </div>
+    <div class="pcFoot">
+      <div class="row"><label for="pcRes" data-i18n="pc.res"></label><select id="pcRes"><option value="512">512</option><option value="1024">1024</option><option value="2048">2048</option><option value="4096">4096</option></select></div>
+      <div class="row"><label for="pcNormalFormat" data-i18n="pc.normalFormat"></label><select id="pcNormalFormat"><option value="gl">OpenGL (+Y)</option><option value="dx">DirectX (−Y)</option></select></div>
+      <button class="primary" id="pcExport" data-i18n="pc.export"></button>
+      <button id="pcExportMap" data-i18n="pc.exportMap"></button>
+      <button id="pcToPainter" data-i18n="pc.topainter"></button>
+    </div>
+  </div>
+  <div class="pcStage">
+   <div class="pcViewArea" data-view="3d">
+    <canvas id="pcView"></canvas><canvas id="pcTex"></canvas>
+    <div class="overlay pcBar">
+      <div class="seg" id="pcViewMode"><button data-v="3d" class="on">3D</button><button data-v="split" data-i18n="pc.view.split"></button><button data-v="tex" data-i18n="pc.view.tex"></button></div>
+      <select id="pcMap" data-i18n-title="pc.map.select" hidden></select>
+      <label class="chip lightctl"><span data-i18n="view.light"></span><input type="range" id="pcLight" min="0" max="360" value="330"></label>
+      <button id="pcFrame" data-i18n="view.frame"></button>
+    </div>
+    <div class="chip pcInfo" id="pcInfo"></div>
+    <div class="chip pcBusy" id="pcBusy" hidden data-i18n="pc.busy"></div>
+   </div>
+   <div class="pcShelf">
+    <div class="pcShelfBar" id="pcShelfTabs">
+      <div class="tabs"><button data-t="ref" class="on" data-i18n="pc.tab.ref"></button><button data-t="ph">Poly Haven</button><button data-t="acg">ambientCG</button></div>
+      <input type="search" id="pcShelfQ" data-i18n-ph="pc.shelf.search" hidden>
+      <span class="pcChips" id="pcShelfChips" hidden></span>
+      <span class="credit" id="pcShelfMsg"></span>
+    </div>
+    <div class="grid" id="pcShelfGrid"></div>
+   </div>
+  </div>
+</div>
+<div hidden><button id="recoverProject"></button><button id="textureExport"></button><button id="meshBake"></button><button id="fullWindow"></button><button id="resetLayout"></button><button id="keyHelp"></button></div>
+<dialog id="quickKeys"><form method="dialog"><strong>TYC Painter · Keyboard shortcuts</strong><p>Tab · Focus　 Ctrl/Cmd + Shift + E · Export</p><button>OK</button></form></dialog><div id="loading"><div class="bar"><i id="lbar"></i></div><span id="ltext">Loading…</span></div>
+<script type="module" src="app.js"></script>
+</body>
+</html>
